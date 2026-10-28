@@ -1,0 +1,1257 @@
+{
+  "runAt": "2026-10-26T02:39:29.724Z",
+  "beforeCounts": {
+    "total": 214,
+    "S": 9,
+    "A": 73,
+    "B": 83,
+    "C": 49
+  },
+  "afterCounts": {
+    "total": 260,
+    "S": 13,
+    "A": 99,
+    "B": 98,
+    "C": 50
+  },
+  "newRunners": [
+    {
+      "symbol": "ELIZABETH",
+      "name": "Why would I deceive you?",
+      "address": "Biiv46yBzZwwdg3HvYQ52yPXmnMb5EnF8dboTx2qpump",
+      "marketCapUsd": 89232,
+      "volume24hUsd": 2098413.88,
+      "priceChange24hPct": 0
+    },
+    {
+      "symbol": "PRIVACY",
+      "name": "Privacycoin",
+      "address": "2ZTZPzwUH2fFBVy6rDSidVtq6hXVeZPZmxUSLqd7pump",
+      "marketCapUsd": 83159,
+      "volume24hUsd": 3035716.94,
+      "priceChange24hPct": 60.68
+    },
+    {
+      "symbol": "SWORDOPE",
+      "name": "dope wif sword",
+      "address": "3SVjZ7BfT9FxiR49nZc7UdBmLgzRLJY7XBZDKhEFpump",
+      "marketCapUsd": 86676,
+      "volume24hUsd": 3621752.29,
+      "priceChange24hPct": -96.07
+    },
+    {
+      "symbol": "GME",
+      "name": "Gigantic Milker Enjoyers",
+      "address": "9gexoGn8qnxT1XpncwNXJDwQci9cPGuNXG3uNfDkpump",
+      "marketCapUsd": 93719,
+      "volume24hUsd": 1927268.11,
+      "priceChange24hPct": 118
+    },
+    {
+      "symbol": "TRUMP",
+      "name": "Trump Coin",
+      "address": "3YYqFkPaob7SzUCyk59DGVhPZK1LN9odKMJc1uy3pump",
+      "marketCapUsd": 254448,
+      "volume24hUsd": 4154064.28,
+      "priceChange24hPct": 397
+    },
+    {
+      "symbol": "mil",
+      "name": "mil",
+      "address": "3w67qwokqjcS6KbZhzNonhmFNGjYbWneB7g5HTXwpump",
+      "marketCapUsd": 87901,
+      "volume24hUsd": 1338174.41,
+      "priceChange24hPct": -30.75
+    },
+    {
+      "symbol": "Moustache",
+      "name": "Moustache Baby",
+      "address": "J9WL4zQVCFvLTydjtHoMGcLasjhRMZomnVmp4Y2cpump",
+      "marketCapUsd": 162129,
+      "volume24hUsd": 2104008.8,
+      "priceChange24hPct": -69.33
+    },
+    {
+      "symbol": "PRESIDENT",
+      "name": "US PRESIDENT 2028",
+      "address": "3LPTanzycRAjguU6VAXE7T2Fd12LePQLpHATXXs9pump",
+      "marketCapUsd": 215019,
+      "volume24hUsd": 2124732.68,
+      "priceChange24hPct": 464
+    },
+    {
+      "symbol": "COIL",
+      "name": "COIL",
+      "address": "Bdmz1BAj5B2YbYVdMyZexWbjX33kfhNonHGDtQjipump",
+      "marketCapUsd": 160610,
+      "volume24hUsd": 1558154.45,
+      "priceChange24hPct": 288
+    },
+    {
+      "symbol": "MONERO-CHAN",
+      "name": "MONERO-CHAN",
+      "address": "FpHQmU2ugwCM1nse3YzcjbmUHMCEwQS7J9eqcub8TETa",
+      "marketCapUsd": 150000,
+      "volume24hUsd": 100000,
+      "priceChange24hPct": 0
+    },
+    {
+      "symbol": "XMR",
+      "name": "XMR",
+      "address": "WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp",
+      "marketCapUsd": 150000,
+      "volume24hUsd": 100000,
+      "priceChange24hPct": 0
+    },
+    {
+      "symbol": "MEMEFI",
+      "name": "MEMEFI",
+      "address": "DUmYMN8AF6XFHumwmEoCK6aJbriK4jUAVAvoAZbbpump",
+      "marketCapUsd": 150000,
+      "volume24hUsd": 100000,
+      "priceChange24hPct": 0
+    },
+    {
+      "symbol": "An",
+      "name": "An",
+      "address": "Hc4qJLtyyPY9vPRFxxez5nzbeYG8izxkeHqWi1oapump",
+      "marketCapUsd": 150000,
+      "volume24hUsd": 100000,
+      "priceChange24hPct": 0
+    },
+    {
+      "symbol": "Himmel",
+      "name": "Himmel",
+      "address": "4gCkAqLXo2cyYzi47tsoDWtcPhNzwi5HjpVHSDiWpump",
+      "marketCapUsd": 150000,
+      "volume24hUsd": 100000,
+      "priceChange24hPct": 0
+    },
+    {
+      "symbol": "finance",
+      "name": "finance",
+      "address": "6dCzu5yohZiDFSnTvEunaYw5q5xp1xQwwZXtcMgyS6D2",
+      "marketCapUsd": 150000,
+      "volume24hUsd": 100000,
+      "priceChange24hPct": 0
+    }
+  ],
+  "newWalletsCount": 46,
+  "newWalletsByTier": {
+    "S": [
+      {
+        "address": "3wHgqV7v6YFEdpAF5SdveLpVZ1c73QkNaQmEojaGeHTE",
+        "tier": "S",
+        "score": 83.9,
+        "label": "S_WR67_$5.5k_3wHg",
+        "winrate": 66.7,
+        "realizedProfit7dUsd": 5458.97,
+        "realizedProfit30dUsd": 4941.81,
+        "roi7dPct": 66.91,
+        "tokensTraded7d": 4,
+        "solBalance": 49.9495,
+        "observedLowcapTokens": [
+          {
+            "symbol": "GME",
+            "profitUsd": 5475.62
+          }
+        ]
+      },
+      {
+        "address": "DgtrnDyvbZ3ZsEip2krLyxyNXzQLvinjSui9J2ic7Vmv",
+        "tier": "S",
+        "score": 81.4,
+        "label": "S_WR63_$6.9k_Dgtr",
+        "winrate": 62.5,
+        "realizedProfit7dUsd": 6866.23,
+        "realizedProfit30dUsd": 4779.67,
+        "roi7dPct": 47.55,
+        "tokensTraded7d": 9,
+        "solBalance": 0.0284,
+        "observedLowcapTokens": [
+          {
+            "symbol": "GME",
+            "profitUsd": 993.59
+          }
+        ]
+      },
+      {
+        "address": "BERTV9KwGNz41PiAaEub6JWAWmLDCj6o7kPDVopJ85oe",
+        "tier": "S",
+        "score": 80.1,
+        "label": "S_WR62_$3.0k_BERT",
+        "winrate": 62.3,
+        "realizedProfit7dUsd": 1939.21,
+        "realizedProfit30dUsd": 2975.4,
+        "roi7dPct": 37.31,
+        "tokensTraded7d": 52,
+        "solBalance": 20.0744,
+        "observedLowcapTokens": [
+          {
+            "symbol": "mem0x",
+            "profitUsd": 0
+          }
+        ]
+      },
+      {
+        "address": "8CkHee39fdeYUzih4QSsCjsVoLUr9z9LBaGKwyAmD5sW",
+        "tier": "S",
+        "score": 80.1,
+        "label": "S_WR65_$6.7k_8CkH",
+        "winrate": 64.9,
+        "realizedProfit7dUsd": 3714.51,
+        "realizedProfit30dUsd": 6669.45,
+        "roi7dPct": 29.13,
+        "tokensTraded7d": 6,
+        "solBalance": 0.3882,
+        "observedLowcapTokens": [
+          {
+            "symbol": "GME",
+            "profitUsd": 2897.92
+          }
+        ]
+      }
+    ],
+    "A": [
+      {
+        "address": "ETAnbJUbuxWRoLtcPQLWGzS6GDZuJwmpXyPNpBFdTt5K",
+        "tier": "A",
+        "score": 79.2,
+        "label": "A_WR100_$4.0k_ETAn",
+        "winrate": 100,
+        "realizedProfit7dUsd": 4034.71,
+        "realizedProfit30dUsd": 4034.71,
+        "roi7dPct": 380.87,
+        "tokensTraded7d": 2,
+        "solBalance": 0,
+        "observedLowcapTokens": [
+          {
+            "symbol": "GME",
+            "profitUsd": 4041.14
+          }
+        ]
+      },
+      {
+        "address": "B6CDSiSxiq24GmF1esdFjspqcDpr6QmwUSUtkgKMTP9i",
+        "tier": "A",
+        "score": 78.5,
+        "label": "A_WR100_$5.3k_B6CD",
+        "winrate": 100,
+        "realizedProfit7dUsd": 5266.43,
+        "realizedProfit30dUsd": 5266.43,
+        "roi7dPct": 698.5,
+        "tokensTraded7d": 2,
+        "solBalance": 0,
+        "observedLowcapTokens": [
+          {
+            "symbol": "GME",
+            "profitUsd": 5267.94
+          }
+        ]
+      },
+      {
+        "address": "5Jf9eJrqYHkGFohyvdLV3dB2g9KZdtUaV9AQmDiki8UF",
+        "tier": "A",
+        "score": 76,
+        "label": "A_WR67_$1.1k_5Jf9",
+        "winrate": 66.5,
+        "realizedProfit7dUsd": 1095.9,
+        "realizedProfit30dUsd": 1095.9,
+        "roi7dPct": 52.78,
+        "tokensTraded7d": 34,
+        "solBalance": 0,
+        "observedLowcapTokens": [
+          {
+            "symbol": "GME",
+            "profitUsd": 987.78
+          }
+        ]
+      },
+      {
+        "address": "CNh8HLUMhvh2vNz4Hvh38VRQcs4GRz9i5m3Adb9sdTBn",
+        "tier": "A",
+        "score": 74.2,
+        "label": "A_WR65_$1.4k_CNh8",
+        "winrate": 65.4,
+        "realizedProfit7dUsd": 1362.96,
+        "realizedProfit30dUsd": 1362.96,
+        "roi7dPct": 43.15,
+        "tokensTraded7d": 7,
+        "solBalance": 0.0501,
+        "observedLowcapTokens": [
+          {
+            "symbol": "GME",
+            "profitUsd": 1366.72
+          }
+        ]
+      },
+      {
+        "address": "D1ft36iYtPpF3GdR7V1fLsyw2QzuRKRe7r2zZWSVMUuF",
+        "tier": "A",
+        "score": 72.2,
+        "label": "A_WR49_$28k_D1ft",
+        "winrate": 48.8,
+        "realizedProfit7dUsd": 4297.57,
+        "realizedProfit30dUsd": 28480.7,
+        "roi7dPct": 4.88,
+        "tokensTraded7d": 120,
+        "solBalance": 9.1813,
+        "observedLowcapTokens": [
+          {
+            "symbol": "HARDFORK",
+            "profitUsd": 0
+          },
+          {
+            "symbol": "LUKE",
+            "profitUsd": 0
+          }
+        ]
+      },
+      {
+        "address": "5ZhqHLomwwZyvdSbYybatCcNJ4w2XneATfpvNNfVspM7",
+        "tier": "A",
+        "score": 70.9,
+        "label": "A_WR68_$593_5Zhq",
+        "winrate": 68,
+        "realizedProfit7dUsd": 592.72,
+        "realizedProfit30dUsd": 592.72,
+        "roi7dPct": 239.08,
+        "tokensTraded7d": 6,
+        "solBalance": 0,
+        "observedLowcapTokens": [
+          {
+            "symbol": "GME",
+            "profitUsd": 592.8
+          }
+        ]
+      },
+      {
+        "address": "7Bc3ciFCeM8uuUm9qtVKUexMV1ZWvcPfqs8osudQGaPa",
+        "tier": "A",
+        "score": 70,
+        "label": "A_WR50_$2.6k_7Bc3",
+        "winrate": 50,
+        "realizedProfit7dUsd": 2603.39,
+        "realizedProfit30dUsd": 2603.39,
+        "roi7dPct": 72.99,
+        "tokensTraded7d": 6,
+        "solBalance": 26.4809,
+        "observedLowcapTokens": [
+          {
+            "symbol": "GME",
+            "profitUsd": 2069.43
+          }
+        ]
+      },
+      {
+        "address": "HsV4FcFSUWHQCMSpBMm9ReefRww4fYdQ19WxQHW9eV31",
+        "tier": "A",
+        "score": 69.8,
+        "label": "A_WR65_$1.3k_HsV4",
+        "winrate": 65.4,
+        "realizedProfit7dUsd": 1251.55,
+        "realizedProfit30dUsd": 1251.55,
+        "roi7dPct": 43.15,
+        "tokensTraded7d": 2,
+        "solBalance": 0,
+        "observedLowcapTokens": [
+          {
+            "symbol": "SWORDOPE",
+            "profitUsd": 1251.55
+          }
+        ]
+      },
+      {
+        "address": "dnRA7dzB2XgUxs1AxTWoiZGP1nYw7GCpbPfgsJPepjT",
+        "tier": "A",
+        "score": 69.8,
+        "label": "A_WR43_$6.1k_dnRA",
+        "winrate": 42.9,
+        "realizedProfit7dUsd": 6104.72,
+        "realizedProfit30dUsd": 6104.72,
+        "roi7dPct": 71.15,
+        "tokensTraded7d": 8,
+        "solBalance": 59.5437,
+        "observedLowcapTokens": [
+          {
+            "symbol": "GME",
+            "profitUsd": 6112.89
+          }
+        ]
+      },
+      {
+        "address": "AhheKvdekvH2YZHcW81FgrN1MV9WR9uK5HLFRNS7G77D",
+        "tier": "A",
+        "score": 68.9,
+        "label": "A_WR60_$2.1k_Ahhe",
+        "winrate": 60.3,
+        "realizedProfit7dUsd": 2102.17,
+        "realizedProfit30dUsd": 2088.35,
+        "roi7dPct": 24.25,
+        "tokensTraded7d": 46,
+        "solBalance": 12.0325,
+        "observedLowcapTokens": [
+          {
+            "symbol": "GME",
+            "profitUsd": 1565.79
+          }
+        ]
+      },
+      {
+        "address": "6Jzhgeqs7rfwPYbvq2d9vhGDjKnfrncFv6eqxp3au3Kv",
+        "tier": "A",
+        "score": 68.7,
+        "label": "A_WR68_$769_6Jzh",
+        "winrate": 68,
+        "realizedProfit7dUsd": 769.42,
+        "realizedProfit30dUsd": 769.29,
+        "roi7dPct": 263.49,
+        "tokensTraded7d": 6,
+        "solBalance": 0,
+        "observedLowcapTokens": [
+          {
+            "symbol": "GME",
+            "profitUsd": 769.6
+          }
+        ]
+      },
+      {
+        "address": "GjGVnsVB4E5neXJSNyUngSkRSSS4d1hSj4KeniSey2Ho",
+        "tier": "A",
+        "score": 68,
+        "label": "A_WR67_$897_GjGV",
+        "winrate": 67.3,
+        "realizedProfit7dUsd": 897.08,
+        "realizedProfit30dUsd": 897.08,
+        "roi7dPct": 64.56,
+        "tokensTraded7d": 2,
+        "solBalance": 0,
+        "observedLowcapTokens": [
+          {
+            "symbol": "SWORDOPE",
+            "profitUsd": 897.08
+          }
+        ]
+      },
+      {
+        "address": "BQZgdYYPtvjFzo4T49tSepm6UTALe3DSEPsA5Q2syMaX",
+        "tier": "A",
+        "score": 67.9,
+        "label": "A_WR66_$745_BQZg",
+        "winrate": 65.8,
+        "realizedProfit7dUsd": 745.31,
+        "realizedProfit30dUsd": 745.31,
+        "roi7dPct": 45.94,
+        "tokensTraded7d": 3,
+        "solBalance": 0,
+        "observedLowcapTokens": [
+          {
+            "symbol": "SWORDOPE",
+            "profitUsd": 745.31
+          }
+        ]
+      },
+      {
+        "address": "CZPsdaVSVmLqTFWazCZTBPRMgJNZgAFy1CQjWBhDaMjW",
+        "tier": "A",
+        "score": 67.9,
+        "label": "A_WR50_$14k_CZPs",
+        "winrate": 50.1,
+        "realizedProfit7dUsd": 3164.1,
+        "realizedProfit30dUsd": 13738.99,
+        "roi7dPct": 5.9,
+        "tokensTraded7d": 87,
+        "solBalance": 29.7226,
+        "observedLowcapTokens": [
+          {
+            "symbol": "GME",
+            "profitUsd": 693.75
+          }
+        ]
+      },
+      {
+        "address": "BeXL88LgWfRYdEKNZamyYQzrFGLRiqWg9GrKH29Rg3R9",
+        "tier": "A",
+        "score": 67.5,
+        "label": "A_WR59_$4.0k_BeXL",
+        "winrate": 58.9,
+        "realizedProfit7dUsd": 4016.31,
+        "realizedProfit30dUsd": 3777.19,
+        "roi7dPct": 20.9,
+        "tokensTraded7d": 120,
+        "solBalance": 0.019,
+        "observedLowcapTokens": [
+          {
+            "symbol": "GME",
+            "profitUsd": 684.8
+          }
+        ]
+      },
+      {
+        "address": "63dUrhd6dJJbSTegdPoLB6DDXy2P4z8bJvAqLaR2tYKz",
+        "tier": "A",
+        "score": 66.9,
+        "label": "A_WR68_$715_63dU",
+        "winrate": 67.7,
+        "realizedProfit7dUsd": 715.08,
+        "realizedProfit30dUsd": 715.08,
+        "roi7dPct": 79.16,
+        "tokensTraded7d": 2,
+        "solBalance": 0,
+        "observedLowcapTokens": [
+          {
+            "symbol": "SWORDOPE",
+            "profitUsd": 715.08
+          }
+        ]
+      },
+      {
+        "address": "FFNLURDxzqBkvABi7fVgtqwV7a8ZqToBcTftkU5SHNiX",
+        "tier": "A",
+        "score": 66.6,
+        "label": "A_WR66_$677_FFNL",
+        "winrate": 66,
+        "realizedProfit7dUsd": 676.64,
+        "realizedProfit30dUsd": 676.64,
+        "roi7dPct": 47.4,
+        "tokensTraded7d": 2,
+        "solBalance": 0,
+        "observedLowcapTokens": [
+          {
+            "symbol": "SWORDOPE",
+            "profitUsd": 676.64
+          }
+        ]
+      },
+      {
+        "address": "3z9eA6eEcBQZuzaHDUMj5Doouy9FyPBN5uV2daybRk2B",
+        "tier": "A",
+        "score": 66.4,
+        "label": "A_WR67_$649_3z9e",
+        "winrate": 67.1,
+        "realizedProfit7dUsd": 649.42,
+        "realizedProfit30dUsd": 649.42,
+        "roi7dPct": 60.05,
+        "tokensTraded7d": 2,
+        "solBalance": 0,
+        "observedLowcapTokens": [
+          {
+            "symbol": "SWORDOPE",
+            "profitUsd": 649.42
+          }
+        ]
+      },
+      {
+        "address": "FJjQZXxqJyZrVT9dk2uKUcnWSyEwGJqNmYAY3Geuf9RW",
+        "tier": "A",
+        "score": 66.2,
+        "label": "A_WR50_$5.4k_FJjQ",
+        "winrate": 50,
+        "realizedProfit7dUsd": 5417.11,
+        "realizedProfit30dUsd": 5417.11,
+        "roi7dPct": 173.5,
+        "tokensTraded7d": 3,
+        "solBalance": 0,
+        "observedLowcapTokens": [
+          {
+            "symbol": "GME",
+            "profitUsd": 5425.6
+          }
+        ]
+      },
+      {
+        "address": "5v8rbZpZ4p2kmDSvsT6fusUwigjPYaKN2ih9zx3RbZgw",
+        "tier": "A",
+        "score": 65.9,
+        "label": "A_WR68_$591_5v8r",
+        "winrate": 67.9,
+        "realizedProfit7dUsd": 591.36,
+        "realizedProfit30dUsd": 591.36,
+        "roi7dPct": 100.82,
+        "tokensTraded7d": 2,
+        "solBalance": 0,
+        "observedLowcapTokens": [
+          {
+            "symbol": "SWORDOPE",
+            "profitUsd": 591.36
+          }
+        ]
+      },
+      {
+        "address": "4GdfSbXmZFGJWrJT8H6rnHP9VUvcbpkSVEtDeBWo4sfn",
+        "tier": "A",
+        "score": 65.7,
+        "label": "A_WR65_$685_4Gdf",
+        "winrate": 65.3,
+        "realizedProfit7dUsd": 685.21,
+        "realizedProfit30dUsd": 685.21,
+        "roi7dPct": 42.79,
+        "tokensTraded7d": 2,
+        "solBalance": 0,
+        "observedLowcapTokens": [
+          {
+            "symbol": "SWORDOPE",
+            "profitUsd": 685.21
+          }
+        ]
+      },
+      {
+        "address": "94FbbXxDsog2uh2b6Puy84a3A2o3vmtrScSyHUuFg3LC",
+        "tier": "A",
+        "score": 65.5,
+        "label": "A_WR67_$546_94Fb",
+        "winrate": 66.9,
+        "realizedProfit7dUsd": 546.34,
+        "realizedProfit30dUsd": 546.34,
+        "roi7dPct": 56.61,
+        "tokensTraded7d": 2,
+        "solBalance": 0,
+        "observedLowcapTokens": [
+          {
+            "symbol": "SWORDOPE",
+            "profitUsd": 546.34
+          }
+        ]
+      },
+      {
+        "address": "CfBBinGQ9o2M5zLkxu5frjY1pnuKn9SsYpd4njFDewke",
+        "tier": "A",
+        "score": 65.4,
+        "label": "A_WR65_$703_CfBB",
+        "winrate": 65.1,
+        "realizedProfit7dUsd": 702.89,
+        "realizedProfit30dUsd": 702.89,
+        "roi7dPct": 41.71,
+        "tokensTraded7d": 2,
+        "solBalance": 0,
+        "observedLowcapTokens": [
+          {
+            "symbol": "SWORDOPE",
+            "profitUsd": 702.89
+          }
+        ]
+      },
+      {
+        "address": "7i6m9QQh2r7MVfbLVPte7fiCnawhKPVdpyF3eArUsqJm",
+        "tier": "A",
+        "score": 65.3,
+        "label": "A_WR65_$627_7i6m",
+        "winrate": 65.4,
+        "realizedProfit7dUsd": 626.93,
+        "realizedProfit30dUsd": 626.93,
+        "roi7dPct": 43.2,
+        "tokensTraded7d": 2,
+        "solBalance": 0,
+        "observedLowcapTokens": [
+          {
+            "symbol": "SWORDOPE",
+            "profitUsd": 626.93
+          }
+        ]
+      },
+      {
+        "address": "GGgcJMNwW3pcunMDPbNN3TDzW2iDim71wXCEhahhUgGo",
+        "tier": "A",
+        "score": 65.3,
+        "label": "A_WR65_$545_GGgc",
+        "winrate": 65.2,
+        "realizedProfit7dUsd": 544.92,
+        "realizedProfit30dUsd": 544.92,
+        "roi7dPct": 42.22,
+        "tokensTraded7d": 2,
+        "solBalance": 0,
+        "observedLowcapTokens": [
+          {
+            "symbol": "SWORDOPE",
+            "profitUsd": 544.92
+          }
+        ]
+      },
+      {
+        "address": "CKB1XYgbEmfEE3FJev7gFwEVtoqEvmsX6GhnbuFvuN5d",
+        "tier": "A",
+        "score": 65,
+        "label": "A_WR47_$34k_CKB1",
+        "winrate": 47.4,
+        "realizedProfit7dUsd": 4249.63,
+        "realizedProfit30dUsd": 34031.44,
+        "roi7dPct": 4.9,
+        "tokensTraded7d": 120,
+        "solBalance": 0.0685,
+        "observedLowcapTokens": [
+          {
+            "symbol": "crimecat",
+            "profitUsd": 0
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "address": "23wTUEigTSLDjPpWxmxAdyB5EUzRJEiDADwEUfu6Dzd1",
+        "tier": "B",
+        "score": 63.6,
+        "label": "B_WR57_$2.8k_23wT",
+        "winrate": 57.5,
+        "realizedProfit7dUsd": 2764.82,
+        "realizedProfit30dUsd": -1485.56,
+        "roi7dPct": 18.07,
+        "tokensTraded7d": 51,
+        "solBalance": 0.0331,
+        "observedLowcapTokens": [
+          {
+            "symbol": "GME",
+            "profitUsd": 1635.75
+          }
+        ]
+      },
+      {
+        "address": "3Xn2PcA4YjL9VQPFCrFrRYLonuLFWVhW1hMwTbtLbHYV",
+        "tier": "B",
+        "score": 63.5,
+        "label": "B_WR68_$595_3Xn2",
+        "winrate": 68,
+        "realizedProfit7dUsd": 594.59,
+        "realizedProfit30dUsd": 594.54,
+        "roi7dPct": 218.34,
+        "tokensTraded7d": 2,
+        "solBalance": 0,
+        "observedLowcapTokens": [
+          {
+            "symbol": "GME",
+            "profitUsd": 594.74
+          }
+        ]
+      },
+      {
+        "address": "Ab2baaggUWJMsVUtCvpRjq6iBRDk2Lxr5qzicHueHxM1",
+        "tier": "B",
+        "score": 62.9,
+        "label": "B_WR48_$3.4k_Ab2b",
+        "winrate": 47.8,
+        "realizedProfit7dUsd": 3150.78,
+        "realizedProfit30dUsd": 3430.73,
+        "roi7dPct": 2.55,
+        "tokensTraded7d": 120,
+        "solBalance": 62.3302,
+        "observedLowcapTokens": [
+          {
+            "symbol": "GME",
+            "profitUsd": 586.14
+          }
+        ]
+      },
+      {
+        "address": "Dj4S9cEF4EbBP8xEF6V3jB7ohY4bXRuQdPcWg6E8j26z",
+        "tier": "B",
+        "score": 62.7,
+        "label": "B_WR50_$2.7k_Dj4S",
+        "winrate": 50,
+        "realizedProfit7dUsd": 2683.57,
+        "realizedProfit30dUsd": 2683.57,
+        "roi7dPct": 74.65,
+        "tokensTraded7d": 3,
+        "solBalance": 0.0996,
+        "observedLowcapTokens": [
+          {
+            "symbol": "GME",
+            "profitUsd": 2686.15
+          }
+        ]
+      },
+      {
+        "address": "5AxJUaZMpqRzEzvL7EQyPZFTr65Ad7mDdx6gYs1mHdcd",
+        "tier": "B",
+        "score": 60.8,
+        "label": "B_WR60_$622_5AxJ",
+        "winrate": 60.3,
+        "realizedProfit7dUsd": 622.25,
+        "realizedProfit30dUsd": 622.25,
+        "roi7dPct": 24.21,
+        "tokensTraded7d": 4,
+        "solBalance": 0.0646,
+        "observedLowcapTokens": [
+          {
+            "symbol": "SWORDOPE",
+            "profitUsd": 512.43
+          }
+        ]
+      },
+      {
+        "address": "HQTq1uVBcZrFPBbDzJfTSwjfe9XmwG76mhBWyZpzU5ev",
+        "tier": "B",
+        "score": 60.5,
+        "label": "B_WR59_$680_HQTq",
+        "winrate": 59.2,
+        "realizedProfit7dUsd": 679.93,
+        "realizedProfit30dUsd": 679.93,
+        "roi7dPct": 21.55,
+        "tokensTraded7d": 5,
+        "solBalance": 0,
+        "observedLowcapTokens": [
+          {
+            "symbol": "SWORDOPE",
+            "profitUsd": 679.93
+          }
+        ]
+      },
+      {
+        "address": "FESMnWYHXR1Nu2wSeqZyBaKW1iQNdECZk3RSu1MMLURy",
+        "tier": "B",
+        "score": 59.4,
+        "label": "B_WR48_$1.7k_FESM",
+        "winrate": 48.4,
+        "realizedProfit7dUsd": 321.3,
+        "realizedProfit30dUsd": 1652.73,
+        "roi7dPct": 5.64,
+        "tokensTraded7d": 120,
+        "solBalance": 19.3004,
+        "observedLowcapTokens": [
+          {
+            "symbol": "PONS",
+            "profitUsd": 0
+          },
+          {
+            "symbol": "YouTube",
+            "profitUsd": 0
+          }
+        ]
+      },
+      {
+        "address": "2nLkpdHdbnQ5uxu86wEULYHvy24Cm4jEfkgyQg5PQW8Z",
+        "tier": "B",
+        "score": 58.3,
+        "label": "B_WR47_$4.5k_2nLk",
+        "winrate": 47.3,
+        "realizedProfit7dUsd": -601.23,
+        "realizedProfit30dUsd": 4471.29,
+        "roi7dPct": -1.92,
+        "tokensTraded7d": 120,
+        "solBalance": 19.278,
+        "observedLowcapTokens": [
+          {
+            "symbol": "Bezzy",
+            "profitUsd": 0
+          },
+          {
+            "symbol": "Macaque",
+            "profitUsd": 0
+          }
+        ]
+      },
+      {
+        "address": "4QKGVHMAu8ujxa7ARMBMudfTC57MsSftmk8kuftmsPoa",
+        "tier": "B",
+        "score": 56.5,
+        "label": "B_WR56_$1.0k_4QKG",
+        "winrate": 56,
+        "realizedProfit7dUsd": 1041.06,
+        "realizedProfit30dUsd": -3235.47,
+        "roi7dPct": 15.26,
+        "tokensTraded7d": 13,
+        "solBalance": 0.0036,
+        "observedLowcapTokens": [
+          {
+            "symbol": "GME",
+            "profitUsd": 705.78
+          }
+        ]
+      },
+      {
+        "address": "GpHQCGwAsRvTnKMPuGNQAfAX4ZAQ8jW4ujUh5kX7Tija",
+        "tier": "B",
+        "score": 56.4,
+        "label": "B_WR47_$2.5k_GpHQ",
+        "winrate": 47.3,
+        "realizedProfit7dUsd": 1137.92,
+        "realizedProfit30dUsd": 2481.34,
+        "roi7dPct": 4.8,
+        "tokensTraded7d": 93,
+        "solBalance": 25.6747,
+        "observedLowcapTokens": [
+          {
+            "symbol": "mem0x",
+            "profitUsd": 0
+          }
+        ]
+      },
+      {
+        "address": "3fYk8u4smfAp54xLtycFZT1RqtmN62fSVp7iGkrSh9SW",
+        "tier": "B",
+        "score": 54.8,
+        "label": "B_WR47_$1.5k_3fYk",
+        "winrate": 47.5,
+        "realizedProfit7dUsd": 1399.17,
+        "realizedProfit30dUsd": 1523.84,
+        "roi7dPct": 4.99,
+        "tokensTraded7d": 120,
+        "solBalance": 27.5651,
+        "observedLowcapTokens": [
+          {
+            "symbol": "mem0x",
+            "profitUsd": 0
+          }
+        ]
+      },
+      {
+        "address": "DbEuGsfCAxcJP2DxTcLPs83eHGA6VfpZFNTF2gZMN6q9",
+        "tier": "B",
+        "score": 54.5,
+        "label": "B_WR46_$6.9k_DbEu",
+        "winrate": 46,
+        "realizedProfit7dUsd": 215.49,
+        "realizedProfit30dUsd": 6905.76,
+        "roi7dPct": 2.6,
+        "tokensTraded7d": 120,
+        "solBalance": 22.0752,
+        "observedLowcapTokens": [
+          {
+            "symbol": "mem0x",
+            "profitUsd": 0
+          }
+        ]
+      },
+      {
+        "address": "3UX6uKSE4zvHzaBbL7mi66R5dGsQCko6VEVgBk2fR511",
+        "tier": "B",
+        "score": 53.7,
+        "label": "B_WR56_$579_3UX6",
+        "winrate": 55.7,
+        "realizedProfit7dUsd": 579.02,
+        "realizedProfit30dUsd": 579.02,
+        "roi7dPct": 14.76,
+        "tokensTraded7d": 4,
+        "solBalance": 0,
+        "observedLowcapTokens": [
+          {
+            "symbol": "SWORDOPE",
+            "profitUsd": 579.02
+          }
+        ]
+      },
+      {
+        "address": "D9zq98ZfSf9NQ3oauJgdm5tWZwPBkAqMhZngByj6vsk9",
+        "tier": "B",
+        "score": 51.1,
+        "label": "B_WR49_$1.9k_D9zq",
+        "winrate": 48.8,
+        "realizedProfit7dUsd": 1927.71,
+        "realizedProfit30dUsd": 1722.66,
+        "roi7dPct": 4.02,
+        "tokensTraded7d": 120,
+        "solBalance": 36.9321,
+        "observedLowcapTokens": [
+          {
+            "symbol": "GME",
+            "profitUsd": 664.17
+          }
+        ]
+      },
+      {
+        "address": "DhLWBPZXBWca5kRYk82669JyEDsVPdSkApZcMJdhkgJF",
+        "tier": "B",
+        "score": 50.7,
+        "label": "B_WR54_$574_DhLW",
+        "winrate": 53.7,
+        "realizedProfit7dUsd": 574.22,
+        "realizedProfit30dUsd": 574.22,
+        "roi7dPct": 11.36,
+        "tokensTraded7d": 6,
+        "solBalance": 0,
+        "observedLowcapTokens": [
+          {
+            "symbol": "SWORDOPE",
+            "profitUsd": 574.22
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "address": "8mjGW2WzVrLcxHydbA5eAgJJrJwRGiAPr9h4cVXh4LeM",
+        "tier": "C",
+        "score": 37.2,
+        "label": "C_WR45_$249_8mjG",
+        "winrate": 44.7,
+        "realizedProfit7dUsd": 249.37,
+        "realizedProfit30dUsd": -2830.46,
+        "roi7dPct": 0.99,
+        "tokensTraded7d": 120,
+        "solBalance": 5.9979,
+        "observedLowcapTokens": [
+          {
+            "symbol": "KILLA",
+            "profitUsd": 0
+          }
+        ]
+      }
+    ]
+  },
+  "meteoraLpOverlap": {
+    "checkedPoolsCount": 5,
+    "pools": [
+      {
+        "pool": "BFmXMeQxC28jUGmSB7A4AQRuDqc1RgYz2J6GW8H1YkSJ",
+        "pair": "Moustache-SOL",
+        "symbol": "Moustache",
+        "baseMint": "J9WL4zQVCFvLTydjtHoMGcLasjhRMZomnVmp4Y2cpump",
+        "activePosition": true,
+        "smartWalletsCount": 20,
+        "tierBreakdown": {
+          "S": 0,
+          "A": 11,
+          "B": 8,
+          "C": 1
+        },
+        "totalRealizedProfitOnTokenUsd": 45543.33,
+        "topWallets": [
+          {
+            "address": "FH6J8jcSuh1WQLamz41AUufNw1bToUz9YTSDV4cCLEeD",
+            "tier": "A",
+            "score": 79.2,
+            "label": "A_WR68_$4.9k_FH6J",
+            "tokenProfitUsd": 882.04,
+            "buyTxCount": 5,
+            "sellTxCount": 4
+          },
+          {
+            "address": "9uwegGbQXQc68HrmRtkxZcpVxAJ5ekS69gJghoR3X5XN",
+            "tier": "A",
+            "score": 78.5,
+            "label": "A_WR100_$3.9k_9uwe",
+            "tokenProfitUsd": 3916.59,
+            "buyTxCount": 6,
+            "sellTxCount": 7
+          },
+          {
+            "address": "9roguu92v3djT4zWSiNmwHpsgwrU5rguLUnw9FHT3VYi",
+            "tier": "A",
+            "score": 77.5,
+            "label": "A_WR63_$8.4k_9rog",
+            "tokenProfitUsd": 2627.46,
+            "buyTxCount": 9,
+            "sellTxCount": 5
+          },
+          {
+            "address": "J3mBcP62ed34cbc5keMzZ3KaL7S3Cn6B1hKWMR1keQRC",
+            "tier": "A",
+            "score": 74.8,
+            "label": "A_WR68_$1.7k_J3mB",
+            "tokenProfitUsd": 2029.67,
+            "buyTxCount": 1,
+            "sellTxCount": 20
+          },
+          {
+            "address": "FcELSqYLPzKymJxdTJvPM91pZ2o1H4rQV14hYdhCNxeo",
+            "tier": "A",
+            "score": 74,
+            "label": "A_WR59_$11k_FcEL",
+            "tokenProfitUsd": 5649.62,
+            "buyTxCount": 2,
+            "sellTxCount": 11
+          },
+          {
+            "address": "2DrTeuRU2WQM2c5t6jf3U9U6bmtAKwivygMYyaPo9tRx",
+            "tier": "A",
+            "score": 74,
+            "label": "A_WR64_$895_2DrT",
+            "tokenProfitUsd": 964.53,
+            "buyTxCount": 18,
+            "sellTxCount": 7
+          },
+          {
+            "address": "8mtCJgWs49LHdccNHGcp9LePHraz995NzDn9P8p4R9Uk",
+            "tier": "A",
+            "score": 71.5,
+            "label": "A_WR57_$8.7k_8mtC",
+            "tokenProfitUsd": 3132.67,
+            "buyTxCount": 1,
+            "sellTxCount": 11
+          },
+          {
+            "address": "G3CRsM4bSUvSgjWmjhtCrgfczEdMMLLjUPQX8pZ13NYR",
+            "tier": "A",
+            "score": 70.2,
+            "label": "A_WR59_$3.7k_G3CR",
+            "tokenProfitUsd": 889.91,
+            "buyTxCount": 3,
+            "sellTxCount": 10
+          },
+          {
+            "address": "94W7sBXhu7pZKXLvbSVQFuD56uqEYN2TUUqWENTbWj8t",
+            "tier": "A",
+            "score": 68.7,
+            "label": "A_WR61_$1.9k_94W7",
+            "tokenProfitUsd": 2360.54,
+            "buyTxCount": 5,
+            "sellTxCount": 7
+          },
+          {
+            "address": "BXGo9i9bWJPBNyjpfhjGF8NdYaJLeZvmhNsCLZLxZLxD",
+            "tier": "A",
+            "score": 67.5,
+            "label": "A_WR50_$24k_BXGo",
+            "tokenProfitUsd": 1789.65,
+            "buyTxCount": 4,
+            "sellTxCount": 10
+          }
+        ]
+      },
+      {
+        "pool": "7sjam6qS7HKBGnjatE5nKdiWDndfEbt8FSTTErnDtfab",
+        "pair": "mil-SOL",
+        "symbol": "mil",
+        "baseMint": "3w67qwokqjcS6KbZhzNonhmFNGjYbWneB7g5HTXwpump",
+        "activePosition": false,
+        "smartWalletsCount": 29,
+        "tierBreakdown": {
+          "S": 2,
+          "A": 7,
+          "B": 7,
+          "C": 13
+        },
+        "totalRealizedProfitOnTokenUsd": 43584.13,
+        "topWallets": [
+          {
+            "address": "AkxkZ31CMrDQoVnHnhGE66bxcCRAyKfLCFXJZKrXS3Qn",
+            "tier": "S",
+            "score": 88.1,
+            "label": "S_WR67_$9.2k_Akxk",
+            "tokenProfitUsd": 1761.72,
+            "buyTxCount": 2,
+            "sellTxCount": 26
+          },
+          {
+            "address": "wMuaU8vEMyz2XoKDzsPo3DG2uFY4szv7gP1JCgdsSaR",
+            "tier": "S",
+            "score": 81.1,
+            "label": "S_WR63_$7.1k_wMua",
+            "tokenProfitUsd": 1520.05,
+            "buyTxCount": 2,
+            "sellTxCount": 26
+          },
+          {
+            "address": "2rH87PgNEuLg6uDaPWWHfwnh6u5Q6JSxSSQEMDz5CN6B",
+            "tier": "A",
+            "score": 79.3,
+            "label": "A_WR67_$3.5k_2rH8",
+            "tokenProfitUsd": 1191.68,
+            "buyTxCount": 1,
+            "sellTxCount": 7
+          },
+          {
+            "address": "EqG9YjyYpWB6oEwCwqLyrhdJTSFKiroczyHMt5ftL9BE",
+            "tier": "A",
+            "score": 76.4,
+            "label": "A_WR62_$2.3k_EqG9",
+            "tokenProfitUsd": 1085.22,
+            "buyTxCount": 6,
+            "sellTxCount": 10
+          },
+          {
+            "address": "6kGj9GXwTRdTESc1NBALdH6wL97h39wdhwsM7eaYNXpd",
+            "tier": "A",
+            "score": 74.7,
+            "label": "A_WR64_$3.4k_6kGj",
+            "tokenProfitUsd": 3870.82,
+            "buyTxCount": 6,
+            "sellTxCount": 3
+          },
+          {
+            "address": "2Jdy7Szgq9Q1XAaCpeChWB7xYKNeLnbVzmdfctjCypwh",
+            "tier": "A",
+            "score": 72.9,
+            "label": "A_WR59_$6.0k_2Jdy",
+            "tokenProfitUsd": 1379.29,
+            "buyTxCount": 1,
+            "sellTxCount": 4
+          },
+          {
+            "address": "2xbktpaSxXSqLUpJpEmXq2yWKjUepQieWPzHYej8sA3e",
+            "tier": "A",
+            "score": 69.4,
+            "label": "A_WR59_$4.9k_2xbk",
+            "tokenProfitUsd": 5473.54,
+            "buyTxCount": 4,
+            "sellTxCount": 9
+          },
+          {
+            "address": "44fEUX8tns54844e7kV5DKmGmobc8jMDEfdGwwFERxSm",
+            "tier": "A",
+            "score": 68.1,
+            "label": "A_WR55_$2.4k_44fE",
+            "tokenProfitUsd": 1505.15,
+            "buyTxCount": 3,
+            "sellTxCount": 12
+          },
+          {
+            "address": "9JVHryHYXnRZcYrNVjD4SdvN82jJDfCeWNXpQ33xFf61",
+            "tier": "A",
+            "score": 67.6,
+            "label": "A_WR57_$6.5k_9JVH",
+            "tokenProfitUsd": 773.45,
+            "buyTxCount": 21,
+            "sellTxCount": 7
+          },
+          {
+            "address": "9MCF4qmpH5aWhZHqesB8K7g9fMSEpjdMcNKsVrEqhLVu",
+            "tier": "B",
+            "score": 60.4,
+            "label": "B_WR55_$2.3k_9MCF",
+            "tokenProfitUsd": 3040.72,
+            "buyTxCount": 13,
+            "sellTxCount": 6
+          }
+        ]
+      },
+      {
+        "pool": "DfHEafDf9vk6tJzo7UEUQK6hMWnikzFvvW55WsxDyJuU",
+        "pair": "CLAUDIA-SOL",
+        "symbol": "CLAUDIA",
+        "baseMint": "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM",
+        "activePosition": true,
+        "smartWalletsCount": 0,
+        "tierBreakdown": {
+          "S": 0,
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "totalRealizedProfitOnTokenUsd": 0,
+        "topWallets": []
+      },
+      {
+        "pool": "5Dc4s9fxxQoPfaMUaxFKB5v1Nh6FPqest7usgyvGXwWw",
+        "pair": "DacityCoin-SOL",
+        "symbol": "DacityCoin",
+        "baseMint": "DKYcjobF7HPtL9RyQBRdeRQ2iWvizpfbgWwPWNXdpump",
+        "activePosition": true,
+        "smartWalletsCount": 0,
+        "tierBreakdown": {
+          "S": 0,
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "totalRealizedProfitOnTokenUsd": 0,
+        "topWallets": []
+      },
+      {
+        "pool": "H37FsZxA5TzoMxXzwMe1HgsPB2FHyuDzK34UiXtfLhFX",
+        "pair": "PANGEA-SOL",
+        "symbol": "PANGEA",
+        "baseMint": "JAFqCQSpy5YinrsmixWSMaD7jTn4MytJRkyWvYPnY6ea",
+        "activePosition": true,
+        "smartWalletsCount": 0,
+        "tierBreakdown": {
+          "S": 0,
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "totalRealizedProfitOnTokenUsd": 0,
+        "topWallets": []
+      }
+    ]
+  }
+}

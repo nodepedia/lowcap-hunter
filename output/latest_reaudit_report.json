@@ -1,0 +1,948 @@
+{
+  "runAt": "2026-10-25T14:31:10.706Z",
+  "mode": "force-live",
+  "beforeCounts": {
+    "total": 256,
+    "S": 13,
+    "A": 94,
+    "B": 90,
+    "C": 59
+  },
+  "afterCounts": {
+    "total": 214,
+    "S": 9,
+    "A": 73,
+    "B": 83,
+    "C": 49
+  },
+  "summary": {
+    "promotedCount": 8,
+    "retainedCount": 177,
+    "demotedCount": 29,
+    "prunedCount": 42
+  },
+  "promoted": [
+    {
+      "address": "FPrWHsHS2SVqSpCZrsdqfiND2un8d4rQN1tNQJ8febNs",
+      "fromTier": "B",
+      "toTier": "S",
+      "fromScore": 64.7,
+      "toScore": 91.7,
+      "label": "S_WR65_$35k_FPrW",
+      "winrate": 65.1,
+      "pnl7d": 28294.63,
+      "pnl30d": 35346.65
+    },
+    {
+      "address": "wMuaU8vEMyz2XoKDzsPo3DG2uFY4szv7gP1JCgdsSaR",
+      "fromTier": "A",
+      "toTier": "S",
+      "fromScore": 74.2,
+      "toScore": 81.1,
+      "label": "S_WR63_$7.1k_wMua",
+      "winrate": 62.7,
+      "pnl7d": 1413.81,
+      "pnl30d": 7120.24
+    },
+    {
+      "address": "Ah8v8NYkmsrzPEuq6mypoQjzT12GBA7DiFpfdGizXhQT",
+      "fromTier": "B",
+      "toTier": "A",
+      "fromScore": 53.3,
+      "toScore": 77.7,
+      "label": "A_WR67_$5.2k_Ah8v",
+      "winrate": 67.4,
+      "pnl7d": 573.95,
+      "pnl30d": 5218.88
+    },
+    {
+      "address": "9roguu92v3djT4zWSiNmwHpsgwrU5rguLUnw9FHT3VYi",
+      "fromTier": "B",
+      "toTier": "A",
+      "fromScore": 53.5,
+      "toScore": 77.5,
+      "label": "A_WR63_$8.4k_9rog",
+      "winrate": 62.9,
+      "pnl7d": 8437.39,
+      "pnl30d": 8180.08
+    },
+    {
+      "address": "9JVHryHYXnRZcYrNVjD4SdvN82jJDfCeWNXpQ33xFf61",
+      "fromTier": "C",
+      "toTier": "A",
+      "fromScore": 44,
+      "toScore": 67.6,
+      "label": "A_WR57_$6.5k_9JVH",
+      "winrate": 57.3,
+      "pnl7d": 6530.23,
+      "pnl30d": 832.96
+    },
+    {
+      "address": "2dBDcCzrMe7jk8SURhipoFth8pxAwYbMVawEy3EL9vqJ",
+      "fromTier": "C",
+      "toTier": "B",
+      "fromScore": 36.5,
+      "toScore": 58.5,
+      "label": "B_WR55_$1.9k_2dBD",
+      "winrate": 55.2,
+      "pnl7d": 1938.73,
+      "pnl30d": -16157.94
+    },
+    {
+      "address": "4wqLSyyFCnjCPWNuL4zuFWzDJThot7wHkx2dps56EfpQ",
+      "fromTier": "C",
+      "toTier": "B",
+      "fromScore": 49.7,
+      "toScore": 57.5,
+      "label": "B_WR54_$2.4k_4wqL",
+      "winrate": 53.8,
+      "pnl7d": 2381.68,
+      "pnl30d": 2329.89
+    },
+    {
+      "address": "EUiinzaPLYzeEfvZc2L1kvrcXG9DEBYcPMfazUr4YaSF",
+      "fromTier": "C",
+      "toTier": "B",
+      "fromScore": 46.8,
+      "toScore": 51.2,
+      "label": "B_WR48_$1.6k_EUii",
+      "winrate": 47.6,
+      "pnl7d": 638.29,
+      "pnl30d": 1581.47
+    }
+  ],
+  "demoted": [
+    {
+      "address": "4h2VKsMqDPckiXNgZ6RnKKETifFuvkmNvKbyx2AKK6oa",
+      "fromTier": "S",
+      "toTier": "A",
+      "fromScore": 81,
+      "toScore": 70.9,
+      "label": "A_WR62_$1.7k_4h2V",
+      "winrate": 61.6,
+      "pnl7d": 1748.27,
+      "pnl30d": 1748.27
+    },
+    {
+      "address": "G3CRsM4bSUvSgjWmjhtCrgfczEdMMLLjUPQX8pZ13NYR",
+      "fromTier": "S",
+      "toTier": "A",
+      "fromScore": 80.4,
+      "toScore": 70.2,
+      "label": "A_WR59_$3.7k_G3CR",
+      "winrate": 58.6,
+      "pnl7d": 1392.01,
+      "pnl30d": 3665.34
+    },
+    {
+      "address": "9FJaRM2SbbxjAW9HwykQz21Uf2a8HKoGHbafkYfeBvSo",
+      "fromTier": "S",
+      "toTier": "A",
+      "fromScore": 81.8,
+      "toScore": 69.3,
+      "label": "A_WR60_$2.0k_9FJa",
+      "winrate": 60.2,
+      "pnl7d": 1977.85,
+      "pnl30d": 1977.85
+    },
+    {
+      "address": "GnQaHz5ADipEjns7a7zy965AQYE35vFhePizXGYBzzND",
+      "fromTier": "A",
+      "toTier": "B",
+      "fromScore": 66.9,
+      "toScore": 64,
+      "label": "B_WR49_$13k_GnQa",
+      "winrate": 49.4,
+      "pnl7d": 6520.15,
+      "pnl30d": 13343.17
+    },
+    {
+      "address": "DEVA1RTJX6mAXLy9HikaDG3SPRu8mrjXnkedoivGQMvZ",
+      "fromTier": "A",
+      "toTier": "B",
+      "fromScore": 72.9,
+      "toScore": 63.3,
+      "label": "B_WR40_$19k_DEVA",
+      "winrate": 40.2,
+      "pnl7d": 12363.09,
+      "pnl30d": 18610.55
+    },
+    {
+      "address": "7CyzkTYGPaBRQ1WLMZSyhjzVEnd8UaBMxRAZgGukNwqk",
+      "fromTier": "A",
+      "toTier": "B",
+      "fromScore": 75.8,
+      "toScore": 63.2,
+      "label": "B_WR57_$1.3k_7Cyz",
+      "winrate": 57.3,
+      "pnl7d": 1339.63,
+      "pnl30d": 1339.63
+    },
+    {
+      "address": "7MFfN8tn7ifSjYvkYw7hcsH6Ea1GLZedjRy16oew6cKb",
+      "fromTier": "A",
+      "toTier": "B",
+      "fromScore": 76.6,
+      "toScore": 62,
+      "label": "B_WR57_$1.2k_7MFf",
+      "winrate": 57,
+      "pnl7d": 1159.44,
+      "pnl30d": 1159.44
+    },
+    {
+      "address": "FwBw51tDzSBSp1w3Zhyu9HK4498YxcAJFX1LRFpJQeFy",
+      "fromTier": "A",
+      "toTier": "B",
+      "fromScore": 71.8,
+      "toScore": 61.4,
+      "label": "B_WR54_$2.0k_FwBw",
+      "winrate": 53.7,
+      "pnl7d": 883.39,
+      "pnl30d": 2026.16
+    },
+    {
+      "address": "8KJW3GC2Tkyzse4Fa7zKsRF76t7om7i89CVJziovKukT",
+      "fromTier": "A",
+      "toTier": "B",
+      "fromScore": 66.2,
+      "toScore": 60.8,
+      "label": "B_WR49_$861_8KJW",
+      "winrate": 49.2,
+      "pnl7d": 860.5,
+      "pnl30d": 860.5
+    },
+    {
+      "address": "9MCF4qmpH5aWhZHqesB8K7g9fMSEpjdMcNKsVrEqhLVu",
+      "fromTier": "A",
+      "toTier": "B",
+      "fromScore": 75.1,
+      "toScore": 60.4,
+      "label": "B_WR55_$2.3k_9MCF",
+      "winrate": 55.1,
+      "pnl7d": 2287.98,
+      "pnl30d": 1969.94
+    },
+    {
+      "address": "AR89RrAwJPUA7Qg3D1aNFW2y8GKofxvB7QA4XQoMrUUQ",
+      "fromTier": "A",
+      "toTier": "B",
+      "fromScore": 65.9,
+      "toScore": 60.2,
+      "label": "B_WR57_$751_AR89",
+      "winrate": 56.9,
+      "pnl7d": 750.66,
+      "pnl30d": 750.66
+    },
+    {
+      "address": "BYm3BCGekN6uGHd4bVqTwjGZgP8d1AKDohikjv1d7t2n",
+      "fromTier": "A",
+      "toTier": "B",
+      "fromScore": 66.9,
+      "toScore": 59.6,
+      "label": "B_WR55_$1.2k_BYm3",
+      "winrate": 55.1,
+      "pnl7d": 1218.89,
+      "pnl30d": 1218.89
+    },
+    {
+      "address": "DR9VeGsR54hWBf79QFFA6MrpzM5og8CMdLVM4jEhSKEZ",
+      "fromTier": "S",
+      "toTier": "B",
+      "fromScore": 80.1,
+      "toScore": 58.2,
+      "label": "B_WR55_$868_DR9V",
+      "winrate": 55.3,
+      "pnl7d": 867.92,
+      "pnl30d": 867.92
+    },
+    {
+      "address": "C937MwaPmo2d6zxysoGeEERZZit7EC7H1R3Mem3BfUKZ",
+      "fromTier": "A",
+      "toTier": "B",
+      "fromScore": 67.5,
+      "toScore": 57.7,
+      "label": "B_WR36_$28k_C937",
+      "winrate": 36,
+      "pnl7d": 3693.01,
+      "pnl30d": 27622.66
+    },
+    {
+      "address": "38AcfN3BipKuJDDaXjyrG2N65Z8EWdM2HFFAZyaVKT1a",
+      "fromTier": "A",
+      "toTier": "B",
+      "fromScore": 70.6,
+      "toScore": 57.6,
+      "label": "B_WR50_$3.7k_38Ac",
+      "winrate": 50,
+      "pnl7d": 3718.03,
+      "pnl30d": 3718.03
+    },
+    {
+      "address": "2Vb9GBYLXacBa7pdGmbU7VvmaGsjQU9Fvc6j4RH8SdkL",
+      "fromTier": "A",
+      "toTier": "B",
+      "fromScore": 75.6,
+      "toScore": 57.5,
+      "label": "B_WR50_$2.1k_2Vb9",
+      "winrate": 50.3,
+      "pnl7d": 2089.17,
+      "pnl30d": 2089.17
+    },
+    {
+      "address": "4m9cqFU7B8bUj3kfsatzdZHycJ9pruzaZnp1KKjN7cS3",
+      "fromTier": "A",
+      "toTier": "B",
+      "fromScore": 77.3,
+      "toScore": 55.2,
+      "label": "B_WR53_$900_4m9c",
+      "winrate": 53.1,
+      "pnl7d": 900.36,
+      "pnl30d": 900.36
+    },
+    {
+      "address": "5P8YqHWcZ9dZ9Yk6cCnVX9zUXK1L94cnfjuMiZufvt6A",
+      "fromTier": "A",
+      "toTier": "B",
+      "fromScore": 79.6,
+      "toScore": 54.7,
+      "label": "B_WR54_$682_5P8Y",
+      "winrate": 53.8,
+      "pnl7d": 681.99,
+      "pnl30d": 681.99
+    },
+    {
+      "address": "6e8ZCP9okrvW62fTopVth79szquzBG96nqvwFGTPRfYu",
+      "fromTier": "A",
+      "toTier": "B",
+      "fromScore": 69.9,
+      "toScore": 53.5,
+      "label": "B_WR48_$4.8k_6e8Z",
+      "winrate": 48.2,
+      "pnl7d": -385.91,
+      "pnl30d": 4833.28
+    },
+    {
+      "address": "3uWYmFU5W6TgHxttBvKKmwHYue9aTEKgUmyjCR4Ze7hB",
+      "fromTier": "A",
+      "toTier": "B",
+      "fromScore": 73.9,
+      "toScore": 52.8,
+      "label": "B_WR52_$730_3uWY",
+      "winrate": 52.3,
+      "pnl7d": 729.5,
+      "pnl30d": 729.5
+    },
+    {
+      "address": "9dcVnTMvgLSfRdvavF8yrZTyRJcwt5ZY1C7UUd2i7yN9",
+      "fromTier": "A",
+      "toTier": "C",
+      "fromScore": 69.5,
+      "toScore": 49,
+      "label": "C_WR49_$846_9dcV",
+      "winrate": 49.1,
+      "pnl7d": 152.51,
+      "pnl30d": 845.6
+    },
+    {
+      "address": "H4sStqGaReiZQxVfVi5ZpeFRK2ozjupYqUi8MBpCpPBT",
+      "fromTier": "B",
+      "toTier": "C",
+      "fromScore": 57.7,
+      "toScore": 48.9,
+      "label": "C_WR60_$217_H4sS",
+      "winrate": 60.3,
+      "pnl7d": 216.57,
+      "pnl30d": 216.57
+    },
+    {
+      "address": "eaTuQCADmL3SFAzQhc5NTzULp1PVvCAFTLSegyBQdE8",
+      "fromTier": "B",
+      "toTier": "C",
+      "fromScore": 50.5,
+      "toScore": 47.5,
+      "label": "C_WR49_$1.2k_eaTu",
+      "winrate": 49.5,
+      "pnl7d": 261.79,
+      "pnl30d": 1210.94
+    },
+    {
+      "address": "Gh1f1L1zRjjg2CEGEWphdGg7KWuK3KgknGNYvafDQU8c",
+      "fromTier": "B",
+      "toTier": "C",
+      "fromScore": 50.7,
+      "toScore": 44.9,
+      "label": "C_WR47_$1.6k_Gh1f",
+      "winrate": 47,
+      "pnl7d": -304.07,
+      "pnl30d": 1551.08
+    },
+    {
+      "address": "3WmVoa4H2PW8z2SVio9aSSTkt9aaizzbXrLq78Lt1vtb",
+      "fromTier": "B",
+      "toTier": "C",
+      "fromScore": 54.5,
+      "toScore": 44.4,
+      "label": "C_WR47_$828_3WmV",
+      "winrate": 47.5,
+      "pnl7d": 828.17,
+      "pnl30d": -2107.06
+    },
+    {
+      "address": "EuHJmw5Ke1XGzJvPf6vfB9pHB2WH5KK1EmFjh9qFFLbn",
+      "fromTier": "B",
+      "toTier": "C",
+      "fromScore": 55.9,
+      "toScore": 41.9,
+      "label": "C_WR48_$921_EuHJ",
+      "winrate": 47.8,
+      "pnl7d": 238.48,
+      "pnl30d": 921.46
+    },
+    {
+      "address": "2VC7RrxX3zxgBDJevb9M989tQk8LU532cxe5aC8vRnG2",
+      "fromTier": "B",
+      "toTier": "C",
+      "fromScore": 54.2,
+      "toScore": 41.1,
+      "label": "C_WR50_$404_2VC7",
+      "winrate": 49.6,
+      "pnl7d": 154.52,
+      "pnl30d": 404.18
+    },
+    {
+      "address": "FqGfPxicKajsApJVYYj2F6hLC7N9CsrUV8bKyBDLworP",
+      "fromTier": "A",
+      "toTier": "C",
+      "fromScore": 66.7,
+      "toScore": 39.8,
+      "label": "C_WR49_$300_FqGf",
+      "winrate": 49.1,
+      "pnl7d": 300.32,
+      "pnl30d": 300.32
+    },
+    {
+      "address": "9US38TY6XMCWKc555K7xehZSycwRy1AxbWBh5tFkHLMn",
+      "fromTier": "B",
+      "toTier": "C",
+      "fromScore": 63.9,
+      "toScore": 37.2,
+      "label": "C_WR48_$239_9US3",
+      "winrate": 48.3,
+      "pnl7d": 239.22,
+      "pnl30d": 239.22
+    }
+  ],
+  "pruned": [
+    {
+      "address": "5vpY5BaPC4Xw3F2uetiR8bZPrnu9BMBZ66QttM8hJqjD",
+      "prevTier": "A",
+      "prevScore": 67.4,
+      "prevLabel": "🔥A_WR47_$37k_5vpY",
+      "reasons": [
+        "LOW_WINRATE(27.6%<35%)"
+      ]
+    },
+    {
+      "address": "4gG4V4iPrwfimbmG3ZzMLKJx8ursKxB8dkfW4PbiLjDa",
+      "prevTier": "B",
+      "prevScore": 57.5,
+      "prevLabel": "⚡B_WR45_$6.1k_4gG4",
+      "reasons": [
+        "HFT_EXCESSIVE_SWAPS_7D(2214)"
+      ]
+    },
+    {
+      "address": "9jH6foRSjAUfPeKuLaLocC2yhqs7Uy9t29ZqrhDpePrd",
+      "prevTier": "C",
+      "prevScore": 40.9,
+      "prevLabel": "👀C_WR45_$256_9jH6",
+      "reasons": [
+        "UNPROFITABLE(7d=$-396,30d=$-55)",
+        "LOW_WINRATE(0.0%<35%)"
+      ]
+    },
+    {
+      "address": "8itq2TDnk4UL5UHffTWn8CiasJ61YSNKP6rJBhSzTKN2",
+      "prevTier": "B",
+      "prevScore": 51.6,
+      "prevLabel": "⚡B_WR48_$3.4k_8itq",
+      "reasons": [
+        "HFT_EXCESSIVE_SWAPS_7D(2455)",
+        "LOW_WINRATE(30.5%<35%)"
+      ]
+    },
+    {
+      "address": "r3oCGfpxdpGL5KfPcU2qjBdHqTdGB3HJ1G59GuQMxxu",
+      "prevTier": "S",
+      "prevScore": 80,
+      "prevLabel": "🏆S_WR60_$14k_r3oC",
+      "reasons": [
+        "LOW_WINRATE(33.7%<35%)"
+      ]
+    },
+    {
+      "address": "Gf1NcbyJNZBL15Gqm7GKeKxda6dRUXS8FYkk2jLUhemZ",
+      "prevTier": "B",
+      "prevScore": 63.6,
+      "prevLabel": "⚡B_WR56_$3.2k_Gf1N",
+      "reasons": [
+        "UNPROFITABLE(7d=$-800,30d=$-9214)",
+        "LOW_WINRATE(0.0%<35%)"
+      ]
+    },
+    {
+      "address": "GyqxVNvrGXZzi23ardvfiajEaQdstD9rMNoLqy3kbMWE",
+      "prevTier": "B",
+      "prevScore": 55.7,
+      "prevLabel": "⚡B_WR53_$1.4k_Gyqx",
+      "reasons": [
+        "LOW_WINRATE(33.3%<35%)"
+      ]
+    },
+    {
+      "address": "4KazhSe3ddwXuMT1EnkyotdTvixrmt8BiBM3XE3yK6N6",
+      "prevTier": "S",
+      "prevScore": 80.9,
+      "prevLabel": "🏆S_WR57_$40k_4Kaz",
+      "reasons": [
+        "SPAM_SNIPER_FAILED_TX(48%)"
+      ]
+    },
+    {
+      "address": "314hSapUP5w9gtzYvVBRMLrfKeXX1RekvCg1sXhQvYy5",
+      "prevTier": "B",
+      "prevScore": 53.9,
+      "prevLabel": "⚡B_WR50_$5.7k_314h",
+      "reasons": [
+        "SPAM_SNIPER_FAILED_TX(47%)"
+      ]
+    },
+    {
+      "address": "ExuXvVc7sjJo9MRmno3NzNiawBsuQXxYUeMzWdHYNTeu",
+      "prevTier": "B",
+      "prevScore": 62.7,
+      "prevLabel": "⚡B_WR61_$633_ExuX",
+      "reasons": [
+        "UNPROFITABLE(7d=$-262,30d=$-679)",
+        "LOW_WINRATE(0.0%<35%)"
+      ]
+    },
+    {
+      "address": "33aX1uA6X1x9iXBZqxtNw6DNSueuHQWJ1rZkufjkBCPV",
+      "prevTier": "B",
+      "prevScore": 58.3,
+      "prevLabel": "⚡B_WR55_$922_33aX",
+      "reasons": [
+        "UNPROFITABLE(7d=$-1222,30d=$-4071)",
+        "LOW_WINRATE(0.0%<35%)"
+      ]
+    },
+    {
+      "address": "69qaveug9QzXysbPRV3SpLuvDkRdJTGGbK9TmAo3yYb3",
+      "prevTier": "A",
+      "prevScore": 68,
+      "prevLabel": "🔥A_WR50_$31k_69qa",
+      "reasons": [
+        "HFT_EXCESSIVE_SWAPS_7D(2593)"
+      ]
+    },
+    {
+      "address": "4BvrFJ7r7A8THSgoR9bxMaMDw4gqLzvxXUpJhLx9TTbn",
+      "prevTier": "B",
+      "prevScore": 57.6,
+      "prevLabel": "⚡B_WR51_$6.6k_4Bvr",
+      "reasons": [
+        "RECENT_DRAWDOWN_7D($-9244)"
+      ]
+    },
+    {
+      "address": "CeQb6JSrtq5GQM4ukvE6Tiu4YgxAf4y3Ru6g5RW4jjc8",
+      "prevTier": "A",
+      "prevScore": 68.7,
+      "prevLabel": "🔥A_WR67_$405_CeQb",
+      "reasons": [
+        "UNPROFITABLE(7d=$-555,30d=$-1503)",
+        "LOW_WINRATE(0.0%<35%)"
+      ]
+    },
+    {
+      "address": "CD7Ei3L8M9hMagUd322L66gJ7pMjaRbw5bXP5rW678d8",
+      "prevTier": "B",
+      "prevScore": 50.1,
+      "prevLabel": "⚡B_WR57_$208_CD7E",
+      "reasons": [
+        "LOW_PROFIT($61<$200)"
+      ]
+    },
+    {
+      "address": "3pgfxHHK2nJGYsdgTCVyQr2Py5rnLWrZCUBqgwqMXCVg",
+      "prevTier": "A",
+      "prevScore": 73.3,
+      "prevLabel": "🔥A_WR63_$1.2k_3pgf",
+      "reasons": [
+        "UNPROFITABLE(7d=$-362,30d=$-362)",
+        "LOW_WINRATE(0.0%<35%)"
+      ]
+    },
+    {
+      "address": "38rQuegHZSvv3pbkVm2QBFaEc7hCXyAG1RKQ6jjTzPiX",
+      "prevTier": "B",
+      "prevScore": 54.1,
+      "prevLabel": "⚡B_WR57_$494_38rQ",
+      "reasons": [
+        "UNPROFITABLE(7d=$-43,30d=$-43)",
+        "LOW_WINRATE(0.0%<35%)"
+      ]
+    },
+    {
+      "address": "EMFX6QB2evihb2hKdpAym8LWCtG23xdxBycpPNFAjT77",
+      "prevTier": "C",
+      "prevScore": 46,
+      "prevLabel": "👀C_WR47_$1.2k_EMFX",
+      "reasons": [
+        "UNPROFITABLE(7d=$-447,30d=$-32104)",
+        "LOW_WINRATE(0.0%<35%)"
+      ]
+    },
+    {
+      "address": "3RqY4X614p7VUgaUi8rj84oyw1Hjer9F4TSxczAEMQNf",
+      "prevTier": "C",
+      "prevScore": 40.4,
+      "prevLabel": "👀C_WR49_$273_3RqY",
+      "reasons": [
+        "UNPROFITABLE(7d=$-1790,30d=$-955)",
+        "RECENT_DRAWDOWN_7D($-1790)",
+        "LOW_WINRATE(0.0%<35%)"
+      ]
+    },
+    {
+      "address": "2oJBYor8xF27FG965hXhFzRiFxjewWtfcbGNBvw9SqfJ",
+      "prevTier": "C",
+      "prevScore": 40.7,
+      "prevLabel": "👀C_WR48_$509_2oJB",
+      "reasons": [
+        "LOW_PROFIT($91<$200)"
+      ]
+    },
+    {
+      "address": "5VkUakz337e7Tqmr7Ww94yda3CNmTi9zXkwzqcnDFPUd",
+      "prevTier": "C",
+      "prevScore": 36.3,
+      "prevLabel": "👀C_WR46_$270_5VkU",
+      "reasons": [
+        "SCORE_BELOW_35(34.7)"
+      ]
+    },
+    {
+      "address": "G44ZLRTUJbUzxyuyMrWLmaa9rVbQvEdbodaKRu3eRmdE",
+      "prevTier": "A",
+      "prevScore": 67.9,
+      "prevLabel": "🔥A_WR66_$350_G44Z",
+      "reasons": [
+        "UNPROFITABLE(7d=$-190,30d=$-600)",
+        "LOW_WINRATE(0.0%<35%)"
+      ]
+    },
+    {
+      "address": "D2wBctC1K2mEtA17i8ZfdEubkiksiAH2j8F7ri3ec71V",
+      "prevTier": "B",
+      "prevScore": 62,
+      "prevLabel": "⚡B_WR50_$12k_D2wB",
+      "reasons": [
+        "SPAM_SNIPER_FAILED_TX(43%)",
+        "RECENT_DRAWDOWN_7D($-1559)"
+      ]
+    },
+    {
+      "address": "AGp71sajUg3GeFth9GtUutYPK21kGA2hX79jvxbNm4vx",
+      "prevTier": "C",
+      "prevScore": 44.8,
+      "prevLabel": "👀C_WR51_$392_AGp7",
+      "reasons": [
+        "UNPROFITABLE(7d=$-297,30d=$-977)",
+        "LOW_WINRATE(0.0%<35%)"
+      ]
+    },
+    {
+      "address": "2nGi5a8WA3A9dsZG88cxYnmQpmnEvf5wppFMNsCWQcaA",
+      "prevTier": "C",
+      "prevScore": 38.2,
+      "prevLabel": "👀C_WR47_$485_2nGi",
+      "reasons": [
+        "LOW_PROFIT($38<$200)"
+      ]
+    },
+    {
+      "address": "E7vRZ14VphB7P3M8wvM3mCtphYSpsZqo77iMF8B9jwvb",
+      "prevTier": "C",
+      "prevScore": 48.7,
+      "prevLabel": "👀C_WR49_$868_E7vR",
+      "reasons": [
+        "UNPROFITABLE(7d=$-798,30d=$-798)",
+        "LOW_WINRATE(0.0%<35%)"
+      ]
+    },
+    {
+      "address": "CovFJgtvrMuoKoW2U6W4RqXpwjaie9iZvMNK4hpMc5CJ",
+      "prevTier": "C",
+      "prevScore": 48.1,
+      "prevLabel": "👀C_WR47_$316_CovF",
+      "reasons": [
+        "UNPROFITABLE(7d=$-776,30d=$-1281)",
+        "LOW_WINRATE(0.0%<35%)"
+      ]
+    },
+    {
+      "address": "7Lsg7YWeGkuHsBuHcaouaqEyfCCRPDhumCcnDqZXSAVc",
+      "prevTier": "C",
+      "prevScore": 47.8,
+      "prevLabel": "👀C_WR49_$737_7Lsg",
+      "reasons": [
+        "LOW_PROFIT($71<$200)"
+      ]
+    },
+    {
+      "address": "D8mdwmoeseWU76QAv12EKqYiJBL8SiGzkPWd1CyydYBW",
+      "prevTier": "C",
+      "prevScore": 41.4,
+      "prevLabel": "👀C_WR49_$386_D8md",
+      "reasons": [
+        "UNPROFITABLE(7d=$-239,30d=$-729)",
+        "LOW_WINRATE(0.0%<35%)"
+      ]
+    },
+    {
+      "address": "DHynLyFpXSjSnwfknwRAweQ7gMGjwxuNbVd2ERnsu3qH",
+      "prevTier": "C",
+      "prevScore": 49.1,
+      "prevLabel": "👀C_WR50_$798_DHyn",
+      "reasons": [
+        "UNPROFITABLE(7d=$-766,30d=$-766)",
+        "LOW_WINRATE(0.0%<35%)"
+      ]
+    },
+    {
+      "address": "7bnQCMUYrdNShhG3gm8uheyG8oNN5PPuQJFfpmfVzVqv",
+      "prevTier": "B",
+      "prevScore": 58.6,
+      "prevLabel": "⚡B_WR50_$2.5k_7bnQ",
+      "reasons": [
+        "UNPROFITABLE(7d=$-412,30d=$-412)",
+        "LOW_WINRATE(0.0%<35%)"
+      ]
+    },
+    {
+      "address": "FeCuMWL6CX5HxF3GhkqKAEr4YLWeD9QvqdMRWhJS5KdW",
+      "prevTier": "C",
+      "prevScore": 41.2,
+      "prevLabel": "👀C_WR47_$1.2k_FeCu",
+      "reasons": [
+        "RECENT_DRAWDOWN_7D($-1624)"
+      ]
+    },
+    {
+      "address": "EF5LjhTAzhc7Gw5m9joJ5uEseH42EKqQ6hCiX1GzgXot",
+      "prevTier": "A",
+      "prevScore": 66.4,
+      "prevLabel": "🔥A_WR66_$646_EF5L",
+      "reasons": [
+        "LOW_PROFIT($117<$200)"
+      ]
+    },
+    {
+      "address": "BCuG97477cjMAVKjWfZvBNrUXa792bWbQa3dZsoHzp7T",
+      "prevTier": "C",
+      "prevScore": 48,
+      "prevLabel": "👀C_WR56_$305_BCuG",
+      "reasons": [
+        "LOW_PROFIT($171<$200)"
+      ]
+    },
+    {
+      "address": "2iY6kci51EmJHv6XsVeXhEwUBxbyjgKDuYMFJp7opJVy",
+      "prevTier": "B",
+      "prevScore": 51.4,
+      "prevLabel": "⚡B_WR57_$326_2iY6",
+      "reasons": [
+        "LOW_PROFIT($160<$200)"
+      ]
+    },
+    {
+      "address": "83M6vse6i57ACLMfmpkoajyTm2Jr8WLduQ7mQHV82QEB",
+      "prevTier": "B",
+      "prevScore": 50.7,
+      "prevLabel": "⚡B_WR52_$567_83M6",
+      "reasons": [
+        "LOW_PROFIT($180<$200)"
+      ]
+    },
+    {
+      "address": "AawcLes6C4HispJ3qwA5jyJiVaFPSFZWvBaD4LRaA3PQ",
+      "prevTier": "A",
+      "prevScore": 66.3,
+      "prevLabel": "🔥A_WR58_$1.7k_Aawc",
+      "reasons": [
+        "SCORE_BELOW_35(34.5)"
+      ]
+    },
+    {
+      "address": "3S9RmB6VTr7mGTyDLe37WC973mKfMm5SzeumrvGLqzES",
+      "prevTier": "B",
+      "prevScore": 52.9,
+      "prevLabel": "⚡B_WR61_$353_3S9R",
+      "reasons": [
+        "UNPROFITABLE(7d=$-21,30d=$-21)",
+        "LOW_WINRATE(0.0%<35%)"
+      ]
+    },
+    {
+      "address": "EkveZ6rF5JV9iiKPq7rPo61ziJkZzzHbSqDW2HKNSt7z",
+      "prevTier": "A",
+      "prevScore": 66.2,
+      "prevLabel": "🔥A_WR60_$1.3k_Ekve",
+      "reasons": [
+        "LOW_PROFIT($147<$200)"
+      ]
+    },
+    {
+      "address": "Cbx6h4Vg8EdQ29mvNphCPpmHUc5i3fDgHozaMhvKxLdD",
+      "prevTier": "B",
+      "prevScore": 54,
+      "prevLabel": "B_WR53_$1.5k_Cbx6",
+      "reasons": [
+        "UNPROFITABLE(7d=$-25,30d=$-3480)",
+        "LOW_WINRATE(0.0%<35%)"
+      ]
+    },
+    {
+      "address": "C4JNJhsHoGvjfLr2LHYLAywzAVL39vcxidZprkRNRXFH",
+      "prevTier": "B",
+      "prevScore": 55.1,
+      "prevLabel": "B_WR51_$1.1k_C4JN",
+      "reasons": [
+        "LOW_PROFIT($187<$200)"
+      ]
+    },
+    {
+      "address": "AsrPfbz4zNyTFbXXgzENtW1m91aTgZV6x9QoWZCh3z95",
+      "prevTier": "C",
+      "prevScore": 46.7,
+      "prevLabel": "C_WR47_$894_AsrP",
+      "reasons": [
+        "SCORE_BELOW_35(34)"
+      ]
+    }
+  ],
+  "retainedSample": [
+    {
+      "address": "6bnQ7Ea1eSHVNKpkzPFUVZtL14ZDQ3cerfTYLpRJowWf",
+      "fromTier": "S",
+      "toTier": "S",
+      "fromScore": 93,
+      "toScore": 93.2,
+      "label": "S_WR66_$16k_6bnQ",
+      "winrate": 65.7,
+      "pnl7d": 1309.79,
+      "pnl30d": 16441.93
+    },
+    {
+      "address": "BKRguFtHn5pSA8TbSHq8zVxnmyHTxrfF3EfBGfQycLcW",
+      "fromTier": "S",
+      "toTier": "S",
+      "fromScore": 92.4,
+      "toScore": 92.5,
+      "label": "S_WR65_$15k_BKRg",
+      "winrate": 65.5,
+      "pnl7d": 1284.11,
+      "pnl30d": 14876.6
+    },
+    {
+      "address": "9YvYHGzXovztDrQY93QTR6fNX1seUwdBvmMCXHhPHVSo",
+      "fromTier": "S",
+      "toTier": "S",
+      "fromScore": 92.2,
+      "toScore": 92.4,
+      "label": "S_WR65_$15k_9YvY",
+      "winrate": 65.4,
+      "pnl7d": 1217.41,
+      "pnl30d": 14621.81
+    },
+    {
+      "address": "AkxkZ31CMrDQoVnHnhGE66bxcCRAyKfLCFXJZKrXS3Qn",
+      "fromTier": "S",
+      "toTier": "S",
+      "fromScore": 88,
+      "toScore": 88.1,
+      "label": "S_WR67_$9.2k_Akxk",
+      "winrate": 66.5,
+      "pnl7d": 2542.58,
+      "pnl30d": 9223.77
+    },
+    {
+      "address": "87o83VF4N3Aqq7TmnBdkE451YcmoxXDrDG1Cy2KG4hXx",
+      "fromTier": "S",
+      "toTier": "S",
+      "fromScore": 83.7,
+      "toScore": 83.7,
+      "label": "S_WR67_$3.1k_87o8",
+      "winrate": 66.7,
+      "pnl7d": 3052.68,
+      "pnl30d": 3052.68
+    },
+    {
+      "address": "E4WuDtSt39GpUacPoFnaqU1jSni8LMG3nGt2mWL331NA",
+      "fromTier": "S",
+      "toTier": "S",
+      "fromScore": 83.3,
+      "toScore": 81.7,
+      "label": "S_WR58_$19k_E4Wu",
+      "winrate": 57.6,
+      "pnl7d": -265.67,
+      "pnl30d": 18620.51
+    },
+    {
+      "address": "v3H7P8PPA4haXToXbnXid5isug9Fik7mqAnRK2KhQxe",
+      "fromTier": "S",
+      "toTier": "S",
+      "fromScore": 82,
+      "toScore": 80.7,
+      "label": "S_WR65_$2.8k_v3H7",
+      "winrate": 65.2,
+      "pnl7d": 2807.79,
+      "pnl30d": 2807.79
+    },
+    {
+      "address": "2rH87PgNEuLg6uDaPWWHfwnh6u5Q6JSxSSQEMDz5CN6B",
+      "fromTier": "A",
+      "toTier": "A",
+      "fromScore": 79.3,
+      "toScore": 79.3,
+      "label": "A_WR67_$3.5k_2rH8",
+      "winrate": 66.7,
+      "pnl7d": 1157.21,
+      "pnl30d": 3457.04
+    },
+    {
+      "address": "FH6J8jcSuh1WQLamz41AUufNw1bToUz9YTSDV4cCLEeD",
+      "fromTier": "A",
+      "toTier": "A",
+      "fromScore": 67.4,
+      "toScore": 79.2,
+      "label": "A_WR68_$4.9k_FH6J",
+      "winrate": 67.9,
+      "pnl7d": 4911.3,
+      "pnl30d": -27617.37
+    },
+    {
+      "address": "HBMfurrGLGhYZTyr8E14kE5wVPaNSviqiNKUriGCFBeu",
+      "fromTier": "A",
+      "toTier": "A",
+      "fromScore": 79.2,
+      "toScore": 79.2,
+      "label": "A_WR100_$3.4k_HBMf",
+      "winrate": 100,
+      "pnl7d": 3359.08,
+      "pnl30d": 3359.08
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+# Laporan Panen Harian Smart Wallet Solana — Senin, 26 Okt 2026 (panen selesai 09:39 WIB)
+
+Database smart wallet aktif naik dari 214 jadi 260 wallet (+46 wallet baru).
+
+- Tier S: dari 9 jadi 13 (+4)
+- Tier A: dari 73 jadi 99 (+26)
+- Tier B: dari 83 jadi 98 (+15)
+- Tier C: dari 49 jadi 50 (+1)
+
+## Runner lowcap Solana terbaru (15 token)
+
+- ELIZABETH (Why would I deceive you?), MC $89,232, Vol 24j $2,098,414, perubahan 24j 0%, `Biiv46yBzZwwdg3HvYQ52yPXmnMb5EnF8dboTx2qpump`
+- PRIVACY (Privacycoin), MC $83,159, Vol 24j $3,035,717, perubahan 24j 60.68%, `2ZTZPzwUH2fFBVy6rDSidVtq6hXVeZPZmxUSLqd7pump`
+- SWORDOPE (dope wif sword), MC $86,676, Vol 24j $3,621,752, perubahan 24j -96.07%, `3SVjZ7BfT9FxiR49nZc7UdBmLgzRLJY7XBZDKhEFpump`
+- GME (Gigantic Milker Enjoyers), MC $93,719, Vol 24j $1,927,268, perubahan 24j 118%, `9gexoGn8qnxT1XpncwNXJDwQci9cPGuNXG3uNfDkpump`
+- TRUMP (Trump Coin), MC $254,448, Vol 24j $4,154,064, perubahan 24j 397%, `3YYqFkPaob7SzUCyk59DGVhPZK1LN9odKMJc1uy3pump`
+- mil (mil), MC $87,901, Vol 24j $1,338,174, perubahan 24j -30.75%, `3w67qwokqjcS6KbZhzNonhmFNGjYbWneB7g5HTXwpump`
+- Moustache (Moustache Baby), MC $162,129, Vol 24j $2,104,009, perubahan 24j -69.33%, `J9WL4zQVCFvLTydjtHoMGcLasjhRMZomnVmp4Y2cpump`
+- PRESIDENT (US PRESIDENT 2028), MC $215,019, Vol 24j $2,124,733, perubahan 24j 464%, `3LPTanzycRAjguU6VAXE7T2Fd12LePQLpHATXXs9pump`
+- COIL (COIL), MC $160,610, Vol 24j $1,558,154, perubahan 24j 288%, `Bdmz1BAj5B2YbYVdMyZexWbjX33kfhNonHGDtQjipump`
+- MONERO-CHAN (MONERO-CHAN), MC $150,000, Vol 24j $100,000, perubahan 24j 0%, `FpHQmU2ugwCM1nse3YzcjbmUHMCEwQS7J9eqcub8TETa`
+- XMR (XMR), MC $150,000, Vol 24j $100,000, perubahan 24j 0%, `WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp`
+- MEMEFI (MEMEFI), MC $150,000, Vol 24j $100,000, perubahan 24j 0%, `DUmYMN8AF6XFHumwmEoCK6aJbriK4jUAVAvoAZbbpump`
+- An (An), MC $150,000, Vol 24j $100,000, perubahan 24j 0%, `Hc4qJLtyyPY9vPRFxxez5nzbeYG8izxkeHqWi1oapump`
+- Himmel (Himmel), MC $150,000, Vol 24j $100,000, perubahan 24j 0%, `4gCkAqLXo2cyYzi47tsoDWtcPhNzwi5HjpVHSDiWpump`
+- finance (finance), MC $150,000, Vol 24j $100,000, perubahan 24j 0%, `6dCzu5yohZiDFSnTvEunaYw5q5xp1xQwwZXtcMgyS6D2`
+
+Catatan: MONERO-CHAN, XMR, MEMEFI, An, Himmel, dan finance tercatat dengan nilai bawaan (MC $150.000, Vol $100.000, 0%), kemungkinan data pasarnya belum terambil.
+
+## Smart wallet baru hari ini: S 4, A 26, B 15, C 1
+
+### Tier S baru
+
+- `3wHgqV7v6YFEdpAF5SdveLpVZ1c73QkNaQmEojaGeHTE` (skor 83.9): WR 66.7%, PnL 7d $5,459, PnL 30d $4,942, ROI 7d 66.91%, 4 token, saldo 49.9495 SOL, ketemu di GME
+- `DgtrnDyvbZ3ZsEip2krLyxyNXzQLvinjSui9J2ic7Vmv` (skor 81.4): WR 62.5%, PnL 7d $6,866, PnL 30d $4,780, ROI 7d 47.55%, 9 token, saldo 0.0284 SOL, ketemu di GME
+- `BERTV9KwGNz41PiAaEub6JWAWmLDCj6o7kPDVopJ85oe` (skor 80.1): WR 62.3%, PnL 7d $1,939, PnL 30d $2,975, ROI 7d 37.31%, 52 token, saldo 20.0744 SOL, ketemu di mem0x
+- `8CkHee39fdeYUzih4QSsCjsVoLUr9z9LBaGKwyAmD5sW` (skor 80.1): WR 64.9%, PnL 7d $3,715, PnL 30d $6,669, ROI 7d 29.13%, 6 token, saldo 0.3882 SOL, ketemu di GME
+
+### Tier A baru
+
+- `ETAnbJUbuxWRoLtcPQLWGzS6GDZuJwmpXyPNpBFdTt5K` (skor 79.2): WR 100%, PnL 7d $4,035, PnL 30d $4,035, ROI 7d 380.87%, 2 token, saldo 0 SOL, ketemu di GME
+- `B6CDSiSxiq24GmF1esdFjspqcDpr6QmwUSUtkgKMTP9i` (skor 78.5): WR 100%, PnL 7d $5,266, PnL 30d $5,266, ROI 7d 698.5%, 2 token, saldo 0 SOL, ketemu di GME
+- `5Jf9eJrqYHkGFohyvdLV3dB2g9KZdtUaV9AQmDiki8UF` (skor 76): WR 66.5%, PnL 7d $1,096, PnL 30d $1,096, ROI 7d 52.78%, 34 token, saldo 0 SOL, ketemu di GME
+- `CNh8HLUMhvh2vNz4Hvh38VRQcs4GRz9i5m3Adb9sdTBn` (skor 74.2): WR 65.4%, PnL 7d $1,363, PnL 30d $1,363, ROI 7d 43.15%, 7 token, saldo 0.0501 SOL, ketemu di GME
+- `D1ft36iYtPpF3GdR7V1fLsyw2QzuRKRe7r2zZWSVMUuF` (skor 72.2): WR 48.8%, PnL 7d $4,298, PnL 30d $28,481, ROI 7d 4.88%, 120 token, saldo 9.1813 SOL, ketemu di HARDFORK, LUKE
+- `5ZhqHLomwwZyvdSbYybatCcNJ4w2XneATfpvNNfVspM7` (skor 70.9): WR 68%, PnL 7d $593, PnL 30d $593, ROI 7d 239.08%, 6 token, saldo 0 SOL, ketemu di GME
+- `7Bc3ciFCeM8uuUm9qtVKUexMV1ZWvcPfqs8osudQGaPa` (skor 70): WR 50%, PnL 7d $2,603, PnL 30d $2,603, ROI 7d 72.99%, 6 token, saldo 26.4809 SOL, ketemu di GME
+- `HsV4FcFSUWHQCMSpBMm9ReefRww4fYdQ19WxQHW9eV31` (skor 69.8): WR 65.4%, PnL 7d $1,252, PnL 30d $1,252, ROI 7d 43.15%, 2 token, saldo 0 SOL, ketemu di SWORDOPE
+- `dnRA7dzB2XgUxs1AxTWoiZGP1nYw7GCpbPfgsJPepjT` (skor 69.8): WR 42.9%, PnL 7d $6,105, PnL 30d $6,105, ROI 7d 71.15%, 8 token, saldo 59.5437 SOL, ketemu di GME
+- `AhheKvdekvH2YZHcW81FgrN1MV9WR9uK5HLFRNS7G77D` (skor 68.9): WR 60.3%, PnL 7d $2,102, PnL 30d $2,088, ROI 7d 24.25%, 46 token, saldo 12.0325 SOL, ketemu di GME
+- `6Jzhgeqs7rfwPYbvq2d9vhGDjKnfrncFv6eqxp3au3Kv` (skor 68.7): WR 68%, PnL 7d $769, PnL 30d $769, ROI 7d 263.49%, 6 token, saldo 0 SOL, ketemu di GME
+- `GjGVnsVB4E5neXJSNyUngSkRSSS4d1hSj4KeniSey2Ho` (skor 68): WR 67.3%, PnL 7d $897, PnL 30d $897, ROI 7d 64.56%, 2 token, saldo 0 SOL, ketemu di SWORDOPE
+- `BQZgdYYPtvjFzo4T49tSepm6UTALe3DSEPsA5Q2syMaX` (skor 67.9): WR 65.8%, PnL 7d $745, PnL 30d $745, ROI 7d 45.94%, 3 token, saldo 0 SOL, ketemu di SWORDOPE
+- `CZPsdaVSVmLqTFWazCZTBPRMgJNZgAFy1CQjWBhDaMjW` (skor 67.9): WR 50.1%, PnL 7d $3,164, PnL 30d $13,739, ROI 7d 5.9%, 87 token, saldo 29.7226 SOL, ketemu di GME
+- `BeXL88LgWfRYdEKNZamyYQzrFGLRiqWg9GrKH29Rg3R9` (skor 67.5): WR 58.9%, PnL 7d $4,016, PnL 30d $3,777, ROI 7d 20.9%, 120 token, saldo 0.019 SOL, ketemu di GME
+- `63dUrhd6dJJbSTegdPoLB6DDXy2P4z8bJvAqLaR2tYKz` (skor 66.9): WR 67.7%, PnL 7d $715, PnL 30d $715, ROI 7d 79.16%, 2 token, saldo 0 SOL, ketemu di SWORDOPE
+- `FFNLURDxzqBkvABi7fVgtqwV7a8ZqToBcTftkU5SHNiX` (skor 66.6): WR 66%, PnL 7d $677, PnL 30d $677, ROI 7d 47.4%, 2 token, saldo 0 SOL, ketemu di SWORDOPE
+- `3z9eA6eEcBQZuzaHDUMj5Doouy9FyPBN5uV2daybRk2B` (skor 66.4): WR 67.1%, PnL 7d $649, PnL 30d $649, ROI 7d 60.05%, 2 token, saldo 0 SOL, ketemu di SWORDOPE
+- `FJjQZXxqJyZrVT9dk2uKUcnWSyEwGJqNmYAY3Geuf9RW` (skor 66.2): WR 50%, PnL 7d $5,417, PnL 30d $5,417, ROI 7d 173.5%, 3 token, saldo 0 SOL, ketemu di GME
+- `5v8rbZpZ4p2kmDSvsT6fusUwigjPYaKN2ih9zx3RbZgw` (skor 65.9): WR 67.9%, PnL 7d $591, PnL 30d $591, ROI 7d 100.82%, 2 token, saldo 0 SOL, ketemu di SWORDOPE
+- `4GdfSbXmZFGJWrJT8H6rnHP9VUvcbpkSVEtDeBWo4sfn` (skor 65.7): WR 65.3%, PnL 7d $685, PnL 30d $685, ROI 7d 42.79%, 2 token, saldo 0 SOL, ketemu di SWORDOPE
+- `94FbbXxDsog2uh2b6Puy84a3A2o3vmtrScSyHUuFg3LC` (skor 65.5): WR 66.9%, PnL 7d $546, PnL 30d $546, ROI 7d 56.61%, 2 token, saldo 0 SOL, ketemu di SWORDOPE
+- `CfBBinGQ9o2M5zLkxu5frjY1pnuKn9SsYpd4njFDewke` (skor 65.4): WR 65.1%, PnL 7d $703, PnL 30d $703, ROI 7d 41.71%, 2 token, saldo 0 SOL, ketemu di SWORDOPE
+- `7i6m9QQh2r7MVfbLVPte7fiCnawhKPVdpyF3eArUsqJm` (skor 65.3): WR 65.4%, PnL 7d $627, PnL 30d $627, ROI 7d 43.2%, 2 token, saldo 0 SOL, ketemu di SWORDOPE
+- `GGgcJMNwW3pcunMDPbNN3TDzW2iDim71wXCEhahhUgGo` (skor 65.3): WR 65.2%, PnL 7d $545, PnL 30d $545, ROI 7d 42.22%, 2 token, saldo 0 SOL, ketemu di SWORDOPE
+- `CKB1XYgbEmfEE3FJev7gFwEVtoqEvmsX6GhnbuFvuN5d` (skor 65): WR 47.4%, PnL 7d $4,250, PnL 30d $34,031, ROI 7d 4.9%, 120 token, saldo 0.0685 SOL, ketemu di crimecat
+
+Tier B baru (15): `23wT…` WR 57.5%, `3Xn2…` WR 68%, `Ab2b…` WR 47.8%, `Dj4S…` WR 50%, `5AxJ…` WR 60.3%, `HQTq…` WR 59.2%, `FESM…` WR 48.4%, `2nLk…` WR 47.3%, `4QKG…` WR 56%, `GpHQ…` WR 47.3%, `3fYk…` WR 47.5%, `DbEu…` WR 46%, `3UX6…` WR 55.7%, `D9zq…` WR 48.8%, `DhLW…` WR 53.7%
+
+Tier C baru (1): `8mjG…` WR 44.7%
+
+## Overlap dengan pool Meteora yang di-LP
+
+- Moustache-SOL (posisi aktif): 20 smart wallet (S 0, A 11, B 8, C 1), total realized profit di token $45,543
+- mil-SOL (tidak ada posisi aktif): 29 smart wallet (S 2, A 7, B 7, C 13), total realized profit di token $43,584
+- CLAUDIA-SOL (posisi aktif): 0 smart wallet (S 0, A 0, B 0, C 0), total realized profit di token $0
+- DacityCoin-SOL (posisi aktif): 0 smart wallet (S 0, A 0, B 0, C 0), total realized profit di token $0
+- PANGEA-SOL (posisi aktif): 0 smart wallet (S 0, A 0, B 0, C 0), total realized profit di token $0
+
+## Daftar wallet siap impor GMGN
+
+### Tier S (13 wallet)
+```
+6bnQ7Ea1eSHVNKpkzPFUVZtL14ZDQ3cerfTYLpRJowWf:S1,
+BKRguFtHn5pSA8TbSHq8zVxnmyHTxrfF3EfBGfQycLcW:S2,
+9YvYHGzXovztDrQY93QTR6fNX1seUwdBvmMCXHhPHVSo:S3,
+FPrWHsHS2SVqSpCZrsdqfiND2un8d4rQN1tNQJ8febNs:S4,
+AkxkZ31CMrDQoVnHnhGE66bxcCRAyKfLCFXJZKrXS3Qn:S5,
+3wHgqV7v6YFEdpAF5SdveLpVZ1c73QkNaQmEojaGeHTE:S6,
+87o83VF4N3Aqq7TmnBdkE451YcmoxXDrDG1Cy2KG4hXx:S7,
+E4WuDtSt39GpUacPoFnaqU1jSni8LMG3nGt2mWL331NA:S8,
+DgtrnDyvbZ3ZsEip2krLyxyNXzQLvinjSui9J2ic7Vmv:S9,
+wMuaU8vEMyz2XoKDzsPo3DG2uFY4szv7gP1JCgdsSaR:S10,
+v3H7P8PPA4haXToXbnXid5isug9Fik7mqAnRK2KhQxe:S11,
+BERTV9KwGNz41PiAaEub6JWAWmLDCj6o7kPDVopJ85oe:S12,
+8CkHee39fdeYUzih4QSsCjsVoLUr9z9LBaGKwyAmD5sW:S13,
+```
+
+### Tier A (99 wallet)
+```
+2rH87PgNEuLg6uDaPWWHfwnh6u5Q6JSxSSQEMDz5CN6B:A1,
+FH6J8jcSuh1WQLamz41AUufNw1bToUz9YTSDV4cCLEeD:A2,
+HBMfurrGLGhYZTyr8E14kE5wVPaNSviqiNKUriGCFBeu:A3,
+ETAnbJUbuxWRoLtcPQLWGzS6GDZuJwmpXyPNpBFdTt5K:A4,
+G1LjbH14vS98Dc3kwaJBnq2fzDrVjMd6V5MUq8W7KNUR:A5,
+9uwegGbQXQc68HrmRtkxZcpVxAJ5ekS69gJghoR3X5XN:A6,
+B6CDSiSxiq24GmF1esdFjspqcDpr6QmwUSUtkgKMTP9i:A7,
+Ah8v8NYkmsrzPEuq6mypoQjzT12GBA7DiFpfdGizXhQT:A8,
+ESFq39Gbk5nw29oE4y2RDJHKjGJUnEeGEoXFTnW78uAL:A9,
+9roguu92v3djT4zWSiNmwHpsgwrU5rguLUnw9FHT3VYi:A10,
+6KneEw9waDfFUQbtGrqA8dnpacAERMyhBfhgu5nXaud5:A11,
+GBot6Du1foN5wdS26ddt9Z62FzFGjryRyvoWuhT8eEXB:A12,
+EqG9YjyYpWB6oEwCwqLyrhdJTSFKiroczyHMt5ftL9BE:A13,
+27e6CJuEzUCnkAepXGCUWNBwwwiyWYXTXzNEKHvRfY2t:A14,
+DK8JjNhy5RzCGMmi9UeGZ8bvpLPvs7Xhj5eN6imPGekm:A15,
+5Jf9eJrqYHkGFohyvdLV3dB2g9KZdtUaV9AQmDiki8UF:A16,
+5rSRCCuuj6sH6DGLcANHYnb9mvdeNBYotBtbQyYnYSSx:A17,
+6hQkoMDX1HndMrr1ZACV8rrkdVm9TEMKUwKfmQoc5SKE:A18,
+BdifZCZC9CZdLbwkGrLXZDKx8w8ZtizTYm8ZDhDdNwtj:A19,
+GDehBcQVCXtSTHeUZN4xV851o1Y3UtYfdxZiiXDFCNhZ:A20,
+98XsULUUEf6rC8CVSqxWuz1w4H4JAo7GsgKcRf5DdPqj:A21,
+J3mBcP62ed34cbc5keMzZ3KaL7S3Cn6B1hKWMR1keQRC:A22,
+6kGj9GXwTRdTESc1NBALdH6wL97h39wdhwsM7eaYNXpd:A23,
+CkJTGt6h2A4qHNsfWTNZuHFo5BnV37QiZEqNe88o4wbK:A24,
+CNh8HLUMhvh2vNz4Hvh38VRQcs4GRz9i5m3Adb9sdTBn:A25,
+13VK7ZrRrx1uZ4Frm2TjacNsbipun21qqifE8wibPVys:A26,
+FcELSqYLPzKymJxdTJvPM91pZ2o1H4rQV14hYdhCNxeo:A27,
+2DrTeuRU2WQM2c5t6jf3U9U6bmtAKwivygMYyaPo9tRx:A28,
+2Jdy7Szgq9Q1XAaCpeChWB7xYKNeLnbVzmdfctjCypwh:A29,
+4RHXTRZtLQnmS7XT5ANTfLxzwUZPn6wNiaFWjxUyKqrB:A30,
+D1ft36iYtPpF3GdR7V1fLsyw2QzuRKRe7r2zZWSVMUuF:A31,
+7x3ix5FVqxm87TPeCfgNd4DiUFNJqS5XJCQKyjFU8joX:A32,
+8mtCJgWs49LHdccNHGcp9LePHraz995NzDn9P8p4R9Uk:A33,
+Gnsv2cXXY4oRgHpv9DCaTJ41LUkjP3pA6sHXrw2NMSxr:A34,
+ArLZpfAVwezKvYSsUGd35C2DAZDsp2ubpZvvqp9C9NpY:A35,
+HUqD3xZKiwrpaGTSBfRbruUDSe8ty4rkYYeX7n1rxbnn:A36,
+4h2VKsMqDPckiXNgZ6RnKKETifFuvkmNvKbyx2AKK6oa:A37,
+5ZhqHLomwwZyvdSbYybatCcNJ4w2XneATfpvNNfVspM7:A38,
+GfMV3MkoFJewQFM2RZvpL3k7Nx8CNRtjY7NFgNqjbWiJ:A39,
+6AwuGEvJ1t9XKhw9d1RN6wHuEkBgoBvLyMzgA5dKf5YD:A40,
+GoiodGnoz68ChKZNdiAuxGEmcRuWP7DQLoUNwTekweay:A41,
+GixmTgPcS6wmuf2ydsJjvMY6yXNeKeTNrhCvY2XiR2Jw:A42,
+G3CRsM4bSUvSgjWmjhtCrgfczEdMMLLjUPQX8pZ13NYR:A43,
+7rh8voDEThdJ2vSxuWmySkzh1gHmmx7aPjyShkYpVtzo:A44,
+4gYVBe9SJewzVKxmWb2gCaTq75wtso8d6tEGY5TstBj5:A45,
+BsAUbiCXQvPdLk2STRReBcCzvuhCLHWMSgr6EntRWuF3:A46,
+7Bc3ciFCeM8uuUm9qtVKUexMV1ZWvcPfqs8osudQGaPa:A47,
+FRdPXBRFK3Qn7TrmpySC8rNP6rqKwG7YL28u6orHPYDd:A48,
+HsV4FcFSUWHQCMSpBMm9ReefRww4fYdQ19WxQHW9eV31:A49,
+dnRA7dzB2XgUxs1AxTWoiZGP1nYw7GCpbPfgsJPepjT:A50,
+2FvwMfqeGg5wASzvegbrGSVJHiYfBJrCfGGt8F9PrV2g:A51,
+2xbktpaSxXSqLUpJpEmXq2yWKjUepQieWPzHYej8sA3e:A52,
+6MRpnTYL7ZoMsVZmBbRSUz26ZmDrVQVzKwmkKDtcMyh:A53,
+R7b9WFf6gqkSp3LaTJTeZuAXMcmsnktsBZBe8gTS18L:A54,
+9FJaRM2SbbxjAW9HwykQz21Uf2a8HKoGHbafkYfeBvSo:A55,
+FU4j7PGk5TppUEy6TRVAeKzyTgSXjXnafcAbNareyeYt:A56,
+B9sVrcN21t5r9kpgzVLVaF4meAmYjA4Z9uVJZDq2K6SR:A57,
+2eDGaXPw6gNA4BPwTWiGqJaCULih5qJ8VjtC2RX2gQHb:A58,
+AhheKvdekvH2YZHcW81FgrN1MV9WR9uK5HLFRNS7G77D:A59,
+4KTaAMGomCVMN5mceK69WPVFxMg13KJMTyfrKrJbf9ep:A60,
+94W7sBXhu7pZKXLvbSVQFuD56uqEYN2TUUqWENTbWj8t:A61,
+CCRrcnDWo7gFHK1d9nANqzWvwUwUP48136PorCiSikzD:A62,
+6Jzhgeqs7rfwPYbvq2d9vhGDjKnfrncFv6eqxp3au3Kv:A63,
+BMHpmc3K9fAFQd6v5VfYpvnwHjaZek4RcGKf2SfcTbfp:A64,
+8pWWTk4vGFqU7Nb71isMoUjTbconkXRUnTU6H2B6EiTW:A65,
+GVHiYG7gCktWzrVpJzQ3hVEpdC6YBSZ7ivZmBsyQREoJ:A66,
+4mW9MtwjtSyzznAv9yne84WfRkL8ZsJKBzTUoazaNiZY:A67,
+44fEUX8tns54844e7kV5DKmGmobc8jMDEfdGwwFERxSm:A68,
+2VybVGg4erwkJX6DVyt7Wr1EfHZfXrKCXQ1uBkyTPNfj:A69,
+GjGVnsVB4E5neXJSNyUngSkRSSS4d1hSj4KeniSey2Ho:A70,
+EDajBBK71iW7jeVjfsmiGeneraPEsq2YrPgeAQkiLd6R:A71,
+EqQYbKaUGizvsvwNhbuGvvBWD1gjU8TykwrbgGikVfuS:A72,
+G5Hmv9tXVkycoL3bkpFYKBfhYMKVyUXjLgeGxrJ5u4b5:A73,
+BQZgdYYPtvjFzo4T49tSepm6UTALe3DSEPsA5Q2syMaX:A74,
+CZPsdaVSVmLqTFWazCZTBPRMgJNZgAFy1CQjWBhDaMjW:A75,
+Er94ijt9986wUKvognqyMGQCKHF6GMsreCdh2MJmLvam:A76,
+9JVHryHYXnRZcYrNVjD4SdvN82jJDfCeWNXpQ33xFf61:A77,
+BYKSR7SpfMFVL2Ab7S4ct8w7hvg1A428kFq2R7Cx4wwS:A78,
+BXGo9i9bWJPBNyjpfhjGF8NdYaJLeZvmhNsCLZLxZLxD:A79,
+BeXL88LgWfRYdEKNZamyYQzrFGLRiqWg9GrKH29Rg3R9:A80,
+GHWbFy5SN8K3dqoSw1NCMPxwD75GLKxbcSt3D5HiZn8p:A81,
+8bL3i9Kjmzfoz3GENejFJJ3sKmRgUm8YpsDVDnPTpMLP:A82,
+7c1a1Ha4ikwWg8TWvsah5u5yazxQ5M53YzuDm18tfCGJ:A83,
+63dUrhd6dJJbSTegdPoLB6DDXy2P4z8bJvAqLaR2tYKz:A84,
+6h1z8KFdjnLNvtQ68S4brtVXuy4qDvKwxfSPW1oGhbeH:A85,
+3H4GRCwM7Vuqbss84JDENECskVMzHx8LMNbwDh9j2PWJ:A86,
+AHpptP67MXAoEBMMSyxCkvPHZ7fS6TVZKRjd79tRKdPM:A87,
+FFNLURDxzqBkvABi7fVgtqwV7a8ZqToBcTftkU5SHNiX:A88,
+3z9eA6eEcBQZuzaHDUMj5Doouy9FyPBN5uV2daybRk2B:A89,
+FJjQZXxqJyZrVT9dk2uKUcnWSyEwGJqNmYAY3Geuf9RW:A90,
+5v8rbZpZ4p2kmDSvsT6fusUwigjPYaKN2ih9zx3RbZgw:A91,
+4GdfSbXmZFGJWrJT8H6rnHP9VUvcbpkSVEtDeBWo4sfn:A92,
+94FbbXxDsog2uh2b6Puy84a3A2o3vmtrScSyHUuFg3LC:A93,
+CfBBinGQ9o2M5zLkxu5frjY1pnuKn9SsYpd4njFDewke:A94,
+GPGPqtAj3C5qyfMdxG84PSmYNKpdgf34TrPxoLyPVmhz:A95,
+23Xfw1pTwAtYp685Qp4qUdHVAtYdBacN9oMEpCcaByUk:A96,
+7i6m9QQh2r7MVfbLVPte7fiCnawhKPVdpyF3eArUsqJm:A97,
+GGgcJMNwW3pcunMDPbNN3TDzW2iDim71wXCEhahhUgGo:A98,
+CKB1XYgbEmfEE3FJev7gFwEVtoqEvmsX6GhnbuFvuN5d:A99,
+```
+
+### Tier B (98 wallet)
+```
+9oa6AskdY31VMPpssM8LYWuKSkAnN4vuhacpQ6Vqizzn:B1,
+FNhJCt9smgDVABeYGzAX6FrjuJxpauVG1mKRMa6P4AXm:B2,
+URekUXMb73e9GkKkS4YN3SWegDwdmMrRB8LHqrPch1E:B3,
+BRze5u4goAPTZ3wxFv6XSQVSMufgDLWshLraFb5ADQky:B4,
+3ZDX6sSqzHDFFk7bViD26SsJxGLQVLUAzyqJJ5PVsxoo:B5,
+GnQaHz5ADipEjns7a7zy965AQYE35vFhePizXGYBzzND:B6,
+23wTUEigTSLDjPpWxmxAdyB5EUzRJEiDADwEUfu6Dzd1:B7,
+BNQ6AMv6xEcVqEgoeHtM6pGzM1G5FcWSPq8DohHvwxRW:B8,
+3Xn2PcA4YjL9VQPFCrFrRYLonuLFWVhW1hMwTbtLbHYV:B9,
+DEVA1RTJX6mAXLy9HikaDG3SPRu8mrjXnkedoivGQMvZ:B10,
+HDLTWWVFBpJyDj3U3t41x45p8cxJJhmhrvaJpiny6tmm:B11,
+7CyzkTYGPaBRQ1WLMZSyhjzVEnd8UaBMxRAZgGukNwqk:B12,
+Ab2baaggUWJMsVUtCvpRjq6iBRDk2Lxr5qzicHueHxM1:B13,
+8gymGA2J6gJAGYB9924a8Kr8uC9YmsrGRGCxJX4MHrPE:B14,
+3mRLsNTQhVNGwZnbkXziWY3F654GSZbgJQ7uUu8xdmDd:B15,
+J3fNe4SKTrVSQ3FKABFFtMgMBZa7PkgC4wYnf17rmAB7:B16,
+Dj4S9cEF4EbBP8xEF6V3jB7ohY4bXRuQdPcWg6E8j26z:B17,
+AE3ULcKzETEv7q4rmuEKJLrwrdFNYxPgMCBsdadL2hFR:B18,
+HvLi4xBRLC6Dz9VTeGCKAEonRzSJHmYLVL3xzmUEuU6n:B19,
+AJTfrZskP2BZCgVb4BkHfcyYaEoppPsqFfsHbwRq2Ay3:B20,
+7MFfN8tn7ifSjYvkYw7hcsH6Ea1GLZedjRy16oew6cKb:B21,
+BW83pDezUDPZUZhZ7MxxsfuGsN8YHFrTkEhpfPGE2Xzk:B22,
+3HhCSyokX8DZBRSwedG7SD2eEPCYWsLhShMvKo65Xr95:B23,
+BMbyYN528UYrjkR5EZr75qBpWLUpGs84ZrpWojEfhMdg:B24,
+FwBw51tDzSBSp1w3Zhyu9HK4498YxcAJFX1LRFpJQeFy:B25,
+8KJW3GC2Tkyzse4Fa7zKsRF76t7om7i89CVJziovKukT:B26,
+5AxJUaZMpqRzEzvL7EQyPZFTr65Ad7mDdx6gYs1mHdcd:B27,
+HcU7y9NLYMEpVDr7vWBmm44RkqoQtU51GEJyVLhdMKui:B28,
+HQTq1uVBcZrFPBbDzJfTSwjfe9XmwG76mhBWyZpzU5ev:B29,
+9MCF4qmpH5aWhZHqesB8K7g9fMSEpjdMcNKsVrEqhLVu:B30,
+E9kArQxyQ9Pgp1y6qVgMie5oxeyo8bi1XEL8c5kEA9pH:B31,
+AR89RrAwJPUA7Qg3D1aNFW2y8GKofxvB7QA4XQoMrUUQ:B32,
+B1j3J1vVjNC63YwcdBh99YiMbhx9Z1zWyQLht8SSbMxx:B33,
+9ULLb4zn5zehpZKhMttYHKbiNS9HtALJU96ai5YBSGuX:B34,
+BYm3BCGekN6uGHd4bVqTwjGZgP8d1AKDohikjv1d7t2n:B35,
+3qzLrtT9BQBXPqjMEQArcXntVwcxf7ScuLoQ6SCnUg3W:B36,
+4qdm2e4h7yqrafqWsw1GnyeH8Jp5mitjnYaT4Cuxu4yk:B37,
+FESMnWYHXR1Nu2wSeqZyBaKW1iQNdECZk3RSu1MMLURy:B38,
+5kB1q8pmG6VAeRqTpKiY6BgfM1DooLLeudtnwQ316A8J:B39,
+Bg8jd7jpS1HPyQ5fXJhWL9zz7FroNzTyCbFbwqNPL1ks:B40,
+pau23UpU2BFwF4JZrLxAnf4ZqgnD3xLnz6ESu7vPsao:B41,
+BXojjGYiEwSoUSzwVft1LZtuWuWuxm1GVvZXuP7NN2xh:B42,
+Tqn4ksaDve4Qr55JPhX64WTMMiUsmXjXamkeS385Epn:B43,
+2dBDcCzrMe7jk8SURhipoFth8pxAwYbMVawEy3EL9vqJ:B44,
+RtHGLYcmPWSdP7nBMFBaiP32Vi4QVM33GRftK86zihZ:B45,
+927nX6EMGwKqVAveUvwyBVHyVB7ckA6gZJo5J7gTAhCt:B46,
+2nLkpdHdbnQ5uxu86wEULYHvy24Cm4jEfkgyQg5PQW8Z:B47,
+DR9VeGsR54hWBf79QFFA6MrpzM5og8CMdLVM4jEhSKEZ:B48,
+57hdTgdcVDyYrZJ3ieeBRn4CDiLWVvBrgjsuDa3gSfzD:B49,
+C937MwaPmo2d6zxysoGeEERZZit7EC7H1R3Mem3BfUKZ:B50,
+9aPPYNuV5NzcLvRJjeXxCjPFFAVFD8JvYe54Y6kYtkSK:B51,
+38AcfN3BipKuJDDaXjyrG2N65Z8EWdM2HFFAZyaVKT1a:B52,
+4wqLSyyFCnjCPWNuL4zuFWzDJThot7wHkx2dps56EfpQ:B53,
+2Vb9GBYLXacBa7pdGmbU7VvmaGsjQU9Fvc6j4RH8SdkL:B54,
+FqJMNzzY1DHz2F1Pt6F7VqCxBWdu8cK2TbfTrYT9zQbT:B55,
+FykbigVtwfqxpxrv78tasCsH76wrrMAjJFZdF6nSoRPN:B56,
+DQDXzPu3Sh9tpYQgDKboZKfFvw7HBnaur6p6Eo7FrJ1u:B57,
+8sbxbTCfvSbVRftvxq8ikSZz68kdZuAfUFZwRXugPBV1:B58,
+71pAfN1nJhcLaezSRYvwdsNFE9PnY9hNfcxB4nZ1gdAp:B59,
+AhGGwGma6g6njWp2MCryfk97nKbpaqLynLNAigeDb7Y7:B60,
+4QKGVHMAu8ujxa7ARMBMudfTC57MsSftmk8kuftmsPoa:B61,
+GpHQCGwAsRvTnKMPuGNQAfAX4ZAQ8jW4ujUh5kX7Tija:B62,
+ER6JKhtyiwKTZof7mr2bzZXaYAwRmEPB2CLgkHnoBteg:B63,
+3DxCBUKFmfn1vwuc5r6GU4srpp2QksrjWEKPU7wzHHj9:B64,
+Ek6nqnimMxTFUEfyfAmsZzLnewQr46ssRd1MW8v3fe9Y:B65,
+4m9cqFU7B8bUj3kfsatzdZHycJ9pruzaZnp1KKjN7cS3:B66,
+3fYk8u4smfAp54xLtycFZT1RqtmN62fSVp7iGkrSh9SW:B67,
+5P8YqHWcZ9dZ9Yk6cCnVX9zUXK1L94cnfjuMiZufvt6A:B68,
+52CasWeADLAkDARemvcggYvX55rRLWNCK7imb1jUX4Zc:B69,
+gNQC8ZksTiogMXKDRDxSHa6W5h6DDBiHYj74mhxtPYL:B70,
+DbEuGsfCAxcJP2DxTcLPs83eHGA6VfpZFNTF2gZMN6q9:B71,
+GVVUa3PmKCRdnSa2sKUaN9tCKzp6gTqSRNVDUu78Fct1:B72,
+BeNBkcPo99v4FmSSj8RrG4jTBCd8ADCtYf6ZPKjeZNKH:B73,
+8ddqGRsXizWTUu1U5p2aB1pMPJSrJWoWuusGq4GHJ21d:B74,
+H3y7eQiXtb7AafUjZ95t23LBvkEiBK1vxtn76zNSZzCE:B75,
+EFYBuRQm7hZvuFkNXJbyVgdpQ8ccVb1DbbcVWTjRmeo3:B76,
+3UX6uKSE4zvHzaBbL7mi66R5dGsQCko6VEVgBk2fR511:B77,
+6e8ZCP9okrvW62fTopVth79szquzBG96nqvwFGTPRfYu:B78,
+Hc228UPbXW8fdXdPi1Fy58Ec4uiscY68qC5Zo8ciZyQT:B79,
+3SuKNaSur86HiLBPH1Dch2iEtCW3jrTxJZHUVKhSvdwJ:B80,
+8ucxigfgGvmaR43rTCuxpkcu86kGx9WugsCzA7vzgcZw:B81,
+FuqGF5LnmKdooMtKyrSqWRwBAho8JzncL1qRLQMPyDZJ:B82,
+3uWYmFU5W6TgHxttBvKKmwHYue9aTEKgUmyjCR4Ze7hB:B83,
+CTjZEsUMFcMSf4YE5Ki16hz3BLn5xzhxp2mCn1xcU6FV:B84,
+DBoVof72CLatZpA1XqYXYQSeHbRr9H4b77mqYc74WptJ:B85,
+9wShfCJSPwg6YxBQ4qi3NPT7ScamYr6Tzx3Jh4M98ZTK:B86,
+7cG8HP9tWQPgkUcJhW6NYvaM9vxcyAcLtSxDtHJEQy9t:B87,
+3DnwtnkPxgCEmaxcpYviEUNFqoED6X2icoY2KdhLXaQS:B88,
+FFrejiHemn2VJYegawXmAp1j3657mJNH1TjSTkC76KrX:B89,
+HQz74vLRgg82xj9hfwzQKwiV4G6eNrmTCEDMA4TbBo53:B90,
+8jhS4oNHZYPUDE1YCFJp8kNCNu9YM5BNcDyaS3rdNKYZ:B91,
+2Zphs5RNrA9WuuUZDuTv4R52YLyembHWDoSzktCigZTi:B92,
+EUiinzaPLYzeEfvZc2L1kvrcXG9DEBYcPMfazUr4YaSF:B93,
+27ydHX5a64kpYi2KBpxcBASVmcqppBs3EX6b955W2XDS:B94,
+D9zq98ZfSf9NQ3oauJgdm5tWZwPBkAqMhZngByj6vsk9:B95,
+hmkn7DEomXMRNRXAV4Smiq46mqBvwNENV8a3Rq5nnyA:B96,
+DhLWBPZXBWca5kRYk82669JyEDsVPdSkApZcMJdhkgJF:B97,
+CyuFTpPxh4aTcvxLR4Xs2oUu6g5YHJw4fMRnfW2inmt6:B98,
+```
+
+### Tier C (50 wallet)
+```
+AxSNWhnYdfiTnQphkFudQCifHmmqQWYy8w6fuwMcfWVp:C1,
+8QVFMrmCS1oDuFyHULgmRMXFsFoE2eUDZN2jRwhgLGmb:C2,
+DFUXQciAQMZCPiTiZVT4n8H2qsAYt1bc4jgTYmZUyeeG:C3,
+9dcVnTMvgLSfRdvavF8yrZTyRJcwt5ZY1C7UUd2i7yN9:C4,
+H4sStqGaReiZQxVfVi5ZpeFRK2ozjupYqUi8MBpCpPBT:C5,
+3ZqbxKb57ezWGyGuBzoceF6PJqeZajayh2JG7vAZwu2m:C6,
+2SYLNUrTpSp5BCJCmNHwZNF83R8rSKVpfXQNxDjgMsme:C7,
+eaTuQCADmL3SFAzQhc5NTzULp1PVvCAFTLSegyBQdE8:C8,
+GwZyyPMRmdNCMyUmSyVz4X6uuUNfSW6iHmseS2mXS71C:C9,
+DyC8v5Jhku5p2n9nk9YrtFmxprugrd8sF6sdrhrkzBLw:C10,
+69SuUaouE2gY2S5PHoH7uNxLWRLog7JbQiWBa7R3Nrop:C11,
+8cu4B5AeV9jSJ37KtKFvLLgGXVS6Fx6U5PYBAyXuFnhx:C12,
+ELNznjA7mk5gxbNZqZbLkswWm7MKEVgiYbT7uRmzaUme:C13,
+58LWR5K1WHTKdPFw8pDz88qWWyu3KFRAdFNtA2bvouBQ:C14,
+68HAkK4n7JzMexTHFvBBVzTdhpuuEL8DwTMkJDzjQW4U:C15,
+Gh1f1L1zRjjg2CEGEWphdGg7KWuK3KgknGNYvafDQU8c:C16,
+FcNduQWmV8KyQ8qJa965Qicz3y59hSpHsLWNobJ631bD:C17,
+2z8BJXXLK7psVSf7tJk8DxAd1yhNLDXrY3b2iC9SUaGY:C18,
+7GTSh159Pmgbn2DVAwGQawYiMM89X7nTsb1eBdVzFWdk:C19,
+3WmVoa4H2PW8z2SVio9aSSTkt9aaizzbXrLq78Lt1vtb:C20,
+EEXcjNB4R6wRASJUo7xsZDPqR8sbD1BNQ8X228eYZ7h2:C21,
+3RogAjFovTuCMCMGKaFUybNGmJfnVhvTq57WVF65DtD5:C22,
+J1AYySZJ38CzFUPP3w7bzso9RW7SfbvYMvFmVUr35YUN:C23,
+6Hh3tNKGYcTsLvfAi9CiLvhKBmMmdysShFVRkbaGfN2J:C24,
+2VnrBqyxQfiQyvhy272KL59jrWfxEWB5Kc9xtmTJKsMg:C25,
+8WpSLDwsGnd3DEZXWSeShXzvFbAUFfACmCya434uPUH9:C26,
+GdiM7NF9RC6RDMhyLeWEsGv365x9L9vQfRdXSCwHAYSm:C27,
+7d54PtGUtqVPZoF3qzGHRFUQQstrHyCdm4uwwrhDSHLW:C28,
+G5Pcr9rrcMjjZsnrfo9VxVgePuDiK9xMMjaqX2twsQE1:C29,
+8hjqHPkP2frzvqqnJ2UHgShwNuPBRstevTcEHDBNJk71:C30,
+FBHU2C1CH2n4E9JRXbsrUVC8edZUaiBKJdNGexmwBFBG:C31,
+EuHJmw5Ke1XGzJvPf6vfB9pHB2WH5KK1EmFjh9qFFLbn:C32,
+2VC7RrxX3zxgBDJevb9M989tQk8LU532cxe5aC8vRnG2:C33,
+A6ZQpXQ8As7AysgkPkGwVi2fRN8aV9VDwpFV8NTJe5C1:C34,
+6S4LFCLqoZNZh3ciB5zyq4JjJebAH6oqqS6ZSmuN6Y7N:C35,
+73kwzzeRuha7RahKRHHsnqZyX2rm7aL5KgA7PQtFQZ29:C36,
+DvxuNDbKnEpkjRB8t7z3aFXg9GLNJDEicYQL1fBS3NAj:C37,
+6cKLvjMce6MEmUZfRjktAyZdwmdwGHaYd6yEAB4XZdo:C38,
+CS24UuqnsjdqssYF5nLtqJtKuQEKxdaKqGdQS2R2VUf7:C39,
+2FdRe3YVNBmxbk6sqvdATWG6Uc6GjyBMvEb2NshjJ196:C40,
+3Bgs6ZhE2Y8AfNEigiZQacWu2H2dJT6DAN5KwNwdQS2a:C41,
+FqGfPxicKajsApJVYYj2F6hLC7N9CsrUV8bKyBDLworP:C42,
+CT9i46LDiyevKdBsBYXi2zs8fC6aUnszRhzs212wgoAb:C43,
+4Vt3BmoN9m4NVHjP3nP3hVatC2iovtgSnJ3QF7KSdCnh:C44,
+9US38TY6XMCWKc555K7xehZSycwRy1AxbWBh5tFkHLMn:C45,
+8mjGW2WzVrLcxHydbA5eAgJJrJwRGiAPr9h4cVXh4LeM:C46,
+6cwaJAZ3c58MxEbhwN4ZBF6YjPU2FxUTMoxSf2SPbWTd:C47,
+CuVPcPSYK6nwxxn2E9YSHKEi4p7oHeegRwBem6p5rq5t:C48,
+2rThPYAuPjfoNJnjPkJRnC2GkigJB7NvvetE7Ro4fKo9:C49,
+AJjpVZWnZpzKPDyJ781ok791zqZZZ5jokfZEWEnkrzjD:C50,
+```

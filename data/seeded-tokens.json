@@ -1,0 +1,140 @@
+{
+  "updatedAt": "2026-10-26T02:39:29.724Z",
+  "tokens": [
+    {
+      "address": "Biiv46yBzZwwdg3HvYQ52yPXmnMb5EnF8dboTx2qpump",
+      "symbol": "ELIZABETH",
+      "name": "Why would I deceive you?",
+      "marketCap": 89232,
+      "volume24h": 2098413.88,
+      "priceChange24hPct": 0,
+      "tradersHarvestedAt": "2026-10-26T02:39:29.724Z"
+    },
+    {
+      "address": "2ZTZPzwUH2fFBVy6rDSidVtq6hXVeZPZmxUSLqd7pump",
+      "symbol": "PRIVACY",
+      "name": "Privacycoin",
+      "marketCap": 83159,
+      "volume24h": 3035716.94,
+      "priceChange24hPct": 60.68,
+      "tradersHarvestedAt": "2026-10-26T02:39:29.724Z"
+    },
+    {
+      "address": "3SVjZ7BfT9FxiR49nZc7UdBmLgzRLJY7XBZDKhEFpump",
+      "symbol": "SWORDOPE",
+      "name": "dope wif sword",
+      "marketCap": 86676,
+      "volume24h": 3621752.29,
+      "priceChange24hPct": -96.07,
+      "tradersHarvestedAt": "2026-10-26T02:39:29.724Z"
+    },
+    {
+      "address": "9gexoGn8qnxT1XpncwNXJDwQci9cPGuNXG3uNfDkpump",
+      "symbol": "GME",
+      "name": "Gigantic Milker Enjoyers",
+      "marketCap": 93719,
+      "volume24h": 1927268.11,
+      "priceChange24hPct": 118,
+      "tradersHarvestedAt": "2026-10-26T02:39:29.724Z"
+    },
+    {
+      "address": "3YYqFkPaob7SzUCyk59DGVhPZK1LN9odKMJc1uy3pump",
+      "symbol": "TRUMP",
+      "name": "Trump Coin",
+      "marketCap": 254448,
+      "volume24h": 4154064.28,
+      "priceChange24hPct": 397,
+      "tradersHarvestedAt": "2026-10-26T02:39:29.724Z"
+    },
+    {
+      "address": "3w67qwokqjcS6KbZhzNonhmFNGjYbWneB7g5HTXwpump",
+      "symbol": "mil",
+      "name": "mil",
+      "marketCap": 87901,
+      "volume24h": 1338174.41,
+      "priceChange24hPct": -30.75,
+      "tradersHarvestedAt": "2026-10-26T02:39:29.724Z"
+    },
+    {
+      "address": "J9WL4zQVCFvLTydjtHoMGcLasjhRMZomnVmp4Y2cpump",
+      "symbol": "Moustache",
+      "name": "Moustache Baby",
+      "marketCap": 162129,
+      "volume24h": 2104008.8,
+      "priceChange24hPct": -69.33,
+      "tradersHarvestedAt": "2026-10-26T02:39:29.724Z"
+    },
+    {
+      "address": "3LPTanzycRAjguU6VAXE7T2Fd12LePQLpHATXXs9pump",
+      "symbol": "PRESIDENT",
+      "name": "US PRESIDENT 2028",
+      "marketCap": 215019,
+      "volume24h": 2124732.68,
+      "priceChange24hPct": 464,
+      "tradersHarvestedAt": "2026-10-26T02:39:29.724Z"
+    },
+    {
+      "address": "Bdmz1BAj5B2YbYVdMyZexWbjX33kfhNonHGDtQjipump",
+      "symbol": "COIL",
+      "name": "COIL",
+      "marketCap": 160610,
+      "volume24h": 1558154.45,
+      "priceChange24hPct": 288,
+      "tradersHarvestedAt": "2026-10-26T02:39:29.724Z"
+    },
+    {
+      "address": "FpHQmU2ugwCM1nse3YzcjbmUHMCEwQS7J9eqcub8TETa",
+      "symbol": "MONERO-CHAN",
+      "name": "MONERO-CHAN",
+      "marketCap": 150000,
+      "volume24h": 100000,
+      "priceChange24hPct": 0,
+      "tradersHarvestedAt": "2026-10-26T02:39:29.724Z"
+    },
+    {
+      "address": "WXMRyRZhsa19ety5erZhHg4N3xj3EVN92u94422teJp",
+      "symbol": "XMR",
+      "name": "XMR",
+      "marketCap": 150000,
+      "volume24h": 100000,
+      "priceChange24hPct": 0,
+      "tradersHarvestedAt": "2026-10-26T02:39:29.724Z"
+    },
+    {
+      "address": "DUmYMN8AF6XFHumwmEoCK6aJbriK4jUAVAvoAZbbpump",
+      "symbol": "MEMEFI",
+      "name": "MEMEFI",
+      "marketCap": 150000,
+      "volume24h": 100000,
+      "priceChange24hPct": 0,
+      "tradersHarvestedAt": "2026-10-26T02:39:29.724Z"
+    },
+    {
+      "address": "Hc4qJLtyyPY9vPRFxxez5nzbeYG8izxkeHqWi1oapump",
+      "symbol": "An",
+      "name": "An",
+      "marketCap": 150000,
+      "volume24h": 100000,
+      "priceChange24hPct": 0,
+      "tradersHarvestedAt": "2026-10-26T02:39:29.724Z"
+    },
+    {
+      "address": "4gCkAqLXo2cyYzi47tsoDWtcPhNzwi5HjpVHSDiWpump",
+      "symbol": "Himmel",
+      "name": "Himmel",
+      "marketCap": 150000,
+      "volume24h": 100000,
+      "priceChange24hPct": 0,
+      "tradersHarvestedAt": "2026-10-26T02:39:29.724Z"
+    },
+    {
+      "address": "6dCzu5yohZiDFSnTvEunaYw5q5xp1xQwwZXtcMgyS6D2",
+      "symbol": "finance",
+      "name": "finance",
+      "marketCap": 150000,
+      "volume24h": 100000,
+      "priceChange24hPct": 0,
+      "tradersHarvestedAt": "2026-10-26T02:39:29.724Z"
+    }
+  ]
+}
