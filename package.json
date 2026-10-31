@@ -12,7 +12,10 @@
     "audit": "node src/audit-wallets.js",
     "filter": "node src/filter-wallets.js",
     "score": "node src/score-wallets.js",
-    "export": "node src/export-gmgn.js"
+    "export": "node src/export-gmgn.js",
+    "sync": "node src/sync-wallets.js",
+    "restore": "node src/sync-wallets.js --restore",
+    "test": "node --test test/"
   },
   "dependencies": {
     "dotenv": "^17.3.1",

@@ -45,3 +45,21 @@ pm2 save   # persist after `pm2 startup`
 
 ## Security
 Never commit `.env` or API keys; `.gitignore` excludes them.
+
+## Wallet backup (nodepedia/lowcap-wallets)
+After each daemon cycle the hunter merges `output/wallets_report.json` into a private repo (one record per address, `firstSeenAt` kept, `lastSeenAt`/tier/stats updated), regenerates `gmgn_import_S.json`/`gmgn_import_A.json`, commits only if changed and pushes. Sync failures only log a warning.
+
+Auth (pick one) in `.env`:
+- **SSH deploy key:** `ssh-keygen -t ed25519 -f ~/.ssh/lowcap_wallets`, add the `.pub` as a deploy key with write access on the repo, add to `~/.ssh/config` (`Host github.com` / `IdentityFile ~/.ssh/lowcap_wallets`), then `WALLETS_REPO_URL=git@github.com:nodepedia/lowcap-wallets.git`.
+- **HTTPS token:** fine-grained PAT with Contents read/write on the repo: `WALLETS_REPO_URL=https://github.com/nodepedia/lowcap-wallets.git` and `WALLETS_REPO_TOKEN=...`.
+
+Optional `WALLETS_REPO_DIR` (default `~/lowcap-wallets`).
+
+### New VPS setup
+```
+cd ~ && git clone git@github.com:nodepedia/lowcap-hunter.git && cd ~/lowcap-hunter
+npm install && cp .env.example .env   # fill keys + WALLETS_REPO_*
+npm run restore    # pulls ~/lowcap-wallets, copies files into output/ (and seeds data/ if empty)
+pm2 start "npm run daemon" --name lowcap-hunter
+```
+Manual sync: `npm run sync`. Tests: `npm test`.

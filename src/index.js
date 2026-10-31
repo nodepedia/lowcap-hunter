@@ -10,6 +10,7 @@ import {
   toDetailedReportEntry,
 } from "./export-gmgn.js";
 import { runReauditWallets } from "./reaudit-wallets.js";
+import { syncWallets } from "./sync-wallets.js";
 import { computeMeteoraLpOverlap } from "./meteora-overlap.js";
 import {
   OUTPUT_DIR,
@@ -207,6 +208,7 @@ async function main() {
       } catch (err) {
         console.error(`[lowcap-hunter] Daemon cycle error:`, err);
       }
+      await syncWallets();
       console.log(`[lowcap-hunter] Daemon sleeping for ${CYCLE_INTERVAL_MIN} minutes before next cycle...`);
       await sleep(CYCLE_INTERVAL_MIN * 60 * 1000);
     }
