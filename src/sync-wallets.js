@@ -16,7 +16,7 @@ export function repoDir() {
 }
 
 function repoUrl() {
-  const url = process.env.WALLETS_REPO_URL;
+  const url = process.env.WALLETS_REPO_URL || (process.env.WALLETS_REPO_TOKEN ? "https://github.com/nodepedia/lowcap-wallets.git" : "");
   const tok = process.env.WALLETS_REPO_TOKEN;
   if (url && tok && url.startsWith("https://")) return url.replace("https://", `https://x-access-token:${tok}@`);
   return url;
@@ -78,7 +78,7 @@ function writeFiles(dir, incoming) {
 
 /** Never throws; returns true on success. */
 export async function syncWallets() {
-  if (!process.env.WALLETS_REPO_URL && !process.env.WALLETS_REPO_DIR) return false;
+  if (!process.env.WALLETS_REPO_URL && !process.env.WALLETS_REPO_TOKEN && !process.env.WALLETS_REPO_DIR) return false;
   const dir = repoDir();
   try {
     ensureRepo(dir);
